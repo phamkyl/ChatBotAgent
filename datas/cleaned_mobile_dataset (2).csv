@@ -1,0 +1,2116 @@
+Brand,Model,Storage ,RAM ,Screen Size (inches),Camera (MP),Battery Capacity (mAh),Price ($)
+apple,Apple iPhone 16 Pro,256,8,6.3,4.0,3582,1357.55
+apple,Apple iPhone 16 Pro,512,8,6.3,4.0,3582,1492.55
+apple,Apple iPhone 16 Pro,1000,8,6.3,4.0,3582,1705.32
+apple,Apple iPhone 16 Pro Max,512,8,6.9,4.0,4685,1564.92
+apple,Apple iPhone 12 mini,128,4,5.4,4.0,2227,247.32
+apple,Apple iPhone 12 mini,256,4,5.4,4.0,2227,319.68
+apple,Apple iPhone 13 mini,256,4,5.4,4.0,2438,427.14
+apple,Apple iPhone 13 mini,512,4,5.4,4.0,2438,467.64
+apple,Apple iPhone XR,128,3,6.1,4.0,2942,213.85
+apple,Apple iPhone XR,256,3,6.1,4.0,2942,214.92
+apple,Apple iPhone XS Max,256,4,6.5,4.0,3174,268.57
+apple,Apple iPhone XS Max,512,4,6.5,4.0,3174,304.87
+apple,Apple iPhone 12 Pro Max,256,6,6.7,4.0,3687,524.79
+apple,Apple iPhone 12 Pro Max,512,6,6.7,4.0,3687,626.4
+apple,Apple iPhone X,256,3,5.8,4.0,2716,230.96
+apple,Apple iPhone XS,256,4,5.8,4.0,2658,200.88
+apple,Apple iPhone XS,512,4,5.8,4.0,2658,291.6
+apple,Apple iPhone 11,128,4,6.1,4.0,3110,264.6
+apple,Apple iPhone 11,256,4,6.1,4.0,3110,305.63
+apple,Apple iPhone 11 Pro,256,4,5.8,4.0,3046,303.48
+apple,Apple iPhone 11 Pro,512,4,5.8,4.0,3046,377.32
+apple,Apple iPhone 11 Pro Max,256,4,6.5,4.0,3969,390.63
+apple,Apple iPhone 11 Pro Max,512,4,6.5,4.0,3969,422.27
+apple,Apple iPhone SE (2020),128,3,4.7,4.0,1821,157.68
+apple,Apple iPhone SE (2020),256,3,4.7,4.0,1821,190.08
+apple,Apple iPhone 12,128,4,6.1,4.0,2815,325.08
+apple,Apple iPhone 12,256,4,6.1,4.0,2815,375.84
+apple,Apple iPhone 12 Pro,256,6,6.1,4.0,2815,457.92
+apple,Apple iPhone 12 Pro,512,6,6.1,4.0,2815,481.68
+apple,Apple iPhone 14,256,6,6.1,4.0,3279,640.0
+apple,Apple iPhone 14,512,6,6.1,4.0,3279,741.67
+apple,Apple iPhone 14 Plus,256,6,6.7,4.0,4323,681.04
+apple,Apple iPhone 14 Plus,512,6,6.7,4.0,4323,802.97
+apple,Apple iPhone 14 Pro,256,6,6.1,4.0,3200,767.04
+apple,Apple iPhone 14 Pro,512,6,6.1,4.0,3200,861.69
+apple,Apple iPhone 14 Pro,1000,6,6.1,4.0,3200,1018.74
+apple,Apple iPhone 14 Pro Max,256,6,6.7,4.0,4323,840.34
+apple,Apple iPhone 14 Pro Max,512,6,6.7,4.0,4323,876.94
+apple,Apple iPhone 14 Pro Max,1000,6,6.7,4.0,4323,995.06
+apple,Apple iPhone SE (2022),128,4,4.7,4.0,2018,243.0
+apple,Apple iPhone SE (2022),256,4,4.7,4.0,2018,185.76
+apple,Apple iPhone 15,256,6,6.1,4.0,3349,743.57
+apple,Apple iPhone 15,512,6,6.1,4.0,3349,828.35
+apple,Apple iPhone 15 Pro Max,512,8,6.7,4.0,4441,1079.75
+apple,Apple iPhone 15 Pro Max,1000,8,6.7,4.0,4441,1261.82
+apple,Apple iPhone 15 Plus,256,6,6.7,4.0,4383,814.03
+apple,Apple iPhone 15 Plus,512,6,6.7,4.0,4383,995.76
+apple,Apple iPhone 15 Pro,256,8,6.1,4.0,3274,967.24
+apple,Apple iPhone 15 Pro,512,8,6.1,4.0,3274,1059.91
+apple,Apple iPhone 15 Pro,1000,8,6.1,4.0,3274,1204.62
+apple,Apple iPhone 16,256,8,6.1,4.0,3561,1024.92
+apple,Apple iPhone 16,512,8,6.1,4.0,3561,1165.32
+apple,Apple iPhone 16 Plus,256,8,6.7,4.0,4674,1186.92
+apple,Apple iPhone 16 Plus,512,8,6.7,4.0,4674,1327.32
+apple,Apple iPhone 13 Pro Max,256,6,6.7,4.0,4352,707.4
+apple,Apple iPhone 13 Pro Max,512,6,6.7,4.0,4352,732.84
+apple,Apple iPhone 13 Pro Max,1000,6,6.7,4.0,4352,814.11
+apple,Apple iPhone 13,256,4,6.1,4.0,3240,466.45
+apple,Apple iPhone 13,512,4,6.1,4.0,3240,538.92
+apple,Apple iPhone 13 Pro,256,6,6.1,4.0,3095,609.99
+apple,Apple iPhone 13 Pro,512,6,6.1,4.0,3095,640.44
+apple,Apple iPhone 13 Pro,1000,6,6.1,4.0,3095,749.1
+asus,Asus Zenfone 8,128,8,5.9,8.0,4000,499.71
+asus,Asus Zenfone 8,256,8,5.9,8.0,4000,405.14
+asus,Asus Zenfone 8,256,12,5.9,8.0,4000,445.0
+asus,Asus Zenfone 9,256,8,5.9,8.0,4300,606.11
+asus,Asus Zenfone 9,256,16,5.9,8.0,4300,723.6
+asus,Asus ROG Phone 7,512,16,6.78,8.0,6000,603.61
+asus,Asus Zenfone 10,256,8,5.92,8.0,4300,632.87
+asus,Asus Zenfone 10,256,16,5.92,8.0,4300,686.87
+asus,Asus Zenfone 10,512,16,5.92,8.0,4300,762.47
+asus,Asus ROG Phone 8 Pro,1000,24,6.78,8.0,5500,1295.99
+asus,Asus Zenfone 11 Ultra,512,16,6.78,8.0,5500,808.92
+blackview,Blackview A96,256,12,6.5,1440.0,4380,246.33
+google,Google Pixel 8,256,8,6.2,4.0,4575,543.97
+google,Google Pixel 4 XL,128,6,6.3,4.0,3700,198.5
+google,Google Pixel 4,128,6,5.7,4.0,2800,162.42
+google,Google Pixel 6,256,8,6.4,4.0,4614,209.87
+google,Google Pixel 9 Pro Fold,512,16,8.0,4.0,4650,2042.27
+google,Google Pixel 9,256,12,6.3,4.0,4700,803.27
+google,Google Pixel 9 Pro,256,16,6.3,8.0,4700,1098.93
+google,Google Pixel 9 Pro,512,16,6.3,8.0,4700,1272.39
+google,Google Pixel 9 Pro,1000,16,6.3,8.0,4700,1435.32
+google,Google Pixel 9 Pro XL,256,16,6.8,8.0,5060,1037.84
+google,Google Pixel 9 Pro XL,512,16,6.8,8.0,5060,1162.06
+google,Google Pixel 9 Pro XL,1000,16,6.8,8.0,5060,1499.98
+google,Google Pixel 8 Pro,256,12,6.7,4.0,5050,648.24
+google,Google Pixel 8 Pro,512,12,6.7,4.0,5050,756.43
+google,Google Pixel 8 Pro,1000,12,6.7,4.0,5050,852.29
+google,Google Pixel 8a,256,8,6.1,4.0,4492,456.56
+google,Google Pixel Fold,512,12,7.6,4.0,4821,1273.56
+google,Google Pixel 6 Pro,256,12,6.7,4.0,5003,298.37
+google,Google Pixel 6 Pro,512,12,6.7,4.0,5003,369.88
+google,Google Pixel 7 Pro,256,12,6.7,4.0,5000,398.6
+google,Google Pixel 7 Pro,512,12,6.7,4.0,5000,456.78
+google,Google Pixel 7,256,8,6.3,4.0,4355,322.92
+honor,Honor 70,256,8,6.67,4.0,4800,227.86
+honor,Honor 70,256,12,6.67,4.0,4800,230.39
+honor,Honor X6,128,4,6.5,1080.0,5000,192.23
+honor,Honor Magic5 Lite,256,8,6.67,1080.0,5100,248.39
+honor,Honor X7,128,6,6.74,1080.0,5000,156.14
+honor,Honor Magic5 Pro,256,12,6.81,4.0,5100,647.99
+honor,Honor X8a,128,8,6.7,1080.0,4500,172.8
+honor,Honor 90,512,12,6.7,4.0,5000,315.89
+honor,Honor X7a,128,6,6.75,1080.0,6000,151.09
+honor,Honor X8b,256,8,6.7,1080.0,4500,261.28
+honor,Honor X7b,256,6,6.8,1080.0,5330,210.03
+honor,Honor Magic6 Pro,512,12,6.8,4.0,5600,860.12
+honor,Honor 200,256,12,6.7,4.0,5200,572.29
+honor,Honor 200,512,12,6.7,4.0,5200,517.32
+honor,Honor 200 Pro,512,12,6.78,4.0,5200,669.59
+honor,Honor Magic V3,512,12,7.92,4.0,5150,2115.72
+honor,Honor Magic V2,512,16,7.92,4.0,5000,1258.52
+honor,Honor 50,128,8,6.57,4.0,4300,185.9
+huawei,Huawei nova 11 Pro,512,8,6.78,4.0,4500,805.67
+huawei,Huawei P30,128,6,6.1,4.0,3650,239.84
+huawei,Huawei P60 Pro,512,12,6.67,4.0,4815,1143.72
+huawei,Huawei nova 9,256,8,6.57,4.0,4300,186.27
+huawei,Huawei nova 8i,128,8,6.67,1080.0,4300,123.67
+huawei,Huawei nova 9 SE,256,8,6.78,1080.0,4000,161.22
+huawei,Huawei Mate 50 Pro,512,8,6.74,4.0,4700,662.84
+huawei,Huawei nova Y90,128,6,6.7,1080.0,5000,205.19
+huawei,Huawei P50 Pro,256,8,6.6,4.0,4360,434.15
+huawei,Huawei nova Y70 Plus,128,4,6.75,1080.0,6000,215.99
+huawei,Huawei Mate X3,512,12,7.85,4.0,4800,2353.82
+huawei,Huawei nova 12i,256,8,6.7,1080.0,5000,215.95
+huawei,Huawei nova 11,256,8,6.7,4.0,4500,394.19
+huawei,Huawei Pura 70 Ultra,1000,16,6.8,4.0,5200,1381.58
+huawei,Huawei Pura 70 Pro,512,12,6.8,4.0,5050,991.49
+motorola,Motorola Moto G23,128,8,6.5,1080.0,5000,151.19
+motorola,Motorola Moto E22,64,4,6.5,1080.0,4020,99.4
+motorola,Motorola Moto G53,128,4,6.5,1080.0,5000,215.46
+motorola,Motorola Edge 20,256,8,6.7,4.0,4000,159.29
+motorola,Motorola Edge 30,128,8,6.5,4.0,4020,214.68
+motorola,Motorola Edge 30 Pro,256,8,6.7,8.0,4800,534.63
+motorola,Motorola Moto G52,128,6,6.6,1080.0,5000,136.29
+motorola,Motorola Moto G71 5G,128,6,6.4,1080.0,5000,135.9
+motorola,Motorola Moto G51 5G,64,6,6.8,1080.0,5000,106.73
+motorola,Motorola Moto G31,128,4,6.4,1080.0,5000,125.33
+motorola,Motorola Moto G82,128,8,6.6,1080.0,5000,175.74
+motorola,Motorola Moto E13,64,4,6.5,1080.0,5000,92.87
+motorola,Motorola ThinkPhone,256,8,6.6,8.0,5000,571.04
+motorola,Motorola Moto G72,128,8,6.6,1080.0,5000,184.74
+motorola,Motorola Moto G72,256,8,6.6,1080.0,5000,199.79
+motorola,Motorola Edge 30 Ultra,256,8,6.67,8.0,4610,790.56
+motorola,Motorola Edge 30 Fusion,256,8,6.55,8.0,4400,233.02
+motorola,Motorola Edge 30 Fusion,256,12,6.55,8.0,4400,1167.12
+motorola,Motorola Moto G13,128,4,6.5,1080.0,5000,123.11
+motorola,Motorola Moto G42,128,4,6.4,1080.0,5000,128.51
+motorola,Motorola Edge 30 Neo,128,8,6.28,1080.0,4020,182.62
+motorola,Motorola Edge 30 Neo,256,8,6.28,1080.0,4020,302.39
+motorola,Motorola Moto G22,128,4,6.5,1080.0,5000,139.08
+motorola,Motorola Moto G32,128,4,6.5,1080.0,5000,173.22
+motorola,Motorola Moto G73,256,8,6.5,1080.0,5000,185.75
+motorola,Motorola Moto G34,128,4,6.5,1080.0,5000,129.59
+motorola,Motorola Moto G34,128,8,6.5,1080.0,5000,125.81
+motorola,Motorola Edge 40 Neo,256,12,6.55,4.0,5000,309.95
+motorola,Motorola Moto G14,256,8,6.5,1080.0,5000,91.04
+motorola,Motorola Moto G54,256,8,6.5,1080.0,5000,151.41
+motorola,Motorola Razr 40 Ultra,256,12,6.9,4.0,3800,629.74
+motorola,Motorola Razr 40,256,8,6.9,4.0,4200,477.49
+motorola,Motorola Edge 40,256,8,6.55,4.0,4400,362.89
+motorola,Motorola Edge 40 Pro,512,12,6.67,8.0,4600,626.86
+motorola,Motorola Moto G35,128,8,6.72,4.0,5000,193.32
+motorola,Motorola Moto G55,256,8,6.49,1080.0,5000,268.92
+motorola,Motorola Edge 50 Neo,512,12,6.4,4.0,4310,497.73
+motorola,Motorola Razr 50 Ultra,256,12,6.9,4.0,4000,1078.92
+motorola,Motorola Razr 50,512,12,6.9,4.0,4200,916.92
+motorola,Motorola Moto G85,256,12,6.67,1080.0,5000,273.35
+motorola,Motorola Edge 50 Ultra,512,16,6.7,4.0,4500,892.12
+motorola,Motorola Edge 50 Fusion,256,8,6.7,4.0,5000,376.92
+motorola,Motorola Edge 50 Pro,256,12,6.7,4.0,4500,631.79
+motorola,Motorola Edge 50 Pro,512,12,6.7,4.0,4500,544.83
+motorola,Motorola Moto G24,128,8,6.56,1080.0,5000,117.15
+motorola,Motorola Moto G24 Power,128,8,6.56,1080.0,6000,137.42
+motorola,Motorola Moto G04s,128,4,6.56,1080.0,5000,99.42
+nokia,Nokia X20,128,8,6.67,1080.0,4470,269.22
+nokia,Nokia G42,128,6,6.56,1080.0,5000,204.11
+nokia,Nokia G42,256,8,6.56,1080.0,5000,161.99
+nokia,Nokia C22,64,3,6.5,1080.0,5000,117.19
+nokia,Nokia C32,64,4,6.5,1080.0,5000,97.53
+nokia,Nokia C32,128,4,6.5,1080.0,5000,118.79
+nokia,Nokia X30,256,8,6.43,1080.0,4200,296.06
+nokia,Nokia C31,32,4,6.75,1080.0,5050,142.93
+nokia,Nokia G60,128,4,6.58,1080.0,4500,269.92
+nokia,Nokia G60,128,6,6.58,1080.0,4500,323.84
+nokia,Nokia G22,128,4,6.5,1080.0,5050,131.76
+nokia,Nokia XR20,128,6,6.67,1080.0,4630,275.19
+nokia,Nokia G10,32,4,6.52,1080.0,5050,111.22
+nokia,Nokia G11,64,4,6.5,1080.0,5050,103.66
+nokia,Nokia C21 Plus,32,3,6.52,1080.0,5050,97.97
+nokia,Nokia C21 Plus,64,3,6.52,1080.0,5050,183.49
+nokia,Nokia G21,64,4,6.5,1080.0,5050,96.26
+nokia,Nokia G21,128,4,6.5,1080.0,5050,112.15
+nothing,Nothing CMF Phone 1,128,8,6.67,4.0,5000,258.12
+nothing,Nothing CMF Phone 1,256,8,6.67,4.0,5000,350.74
+nothing,Nothing Phone (2a) Plus,256,12,6.7,4.0,5000,463.32
+nothing,Nothing Phone (2a),256,12,6.7,4.0,5000,330.47
+nothing,Nothing Phone (1),256,8,6.55,4.0,4500,301.17
+nothing,Nothing Phone (1),256,12,6.55,4.0,4500,381.63
+nothing,Nothing Phone (2),256,12,6.7,4.0,4700,562.57
+nothing,Nothing Phone (2),512,12,6.7,4.0,4700,648.85
+oneplus,OnePlus Nord 4,512,16,6.74,4.0,5500,482.76
+oneplus,OnePlus Nord 2T,256,12,6.43,4.0,4500,280.79
+oneplus,OnePlus 10 Pro,256,8,6.7,8.0,5000,439.5
+oneplus,OnePlus 10 Pro,256,12,6.7,8.0,5000,622.08
+oneplus,OnePlus Nord CE 2 5G,128,8,6.43,4.0,4500,168.36
+oneplus,OnePlus Nord CE 2 Lite 5G,128,8,6.59,1080.0,5000,259.19
+oneplus,OnePlus 7T,256,8,6.55,4.0,3800,154.44
+oneplus,OnePlus Nord 2 5G,128,8,6.43,4.0,4500,279.72
+oneplus,OnePlus Nord 2 5G,256,12,6.43,4.0,4500,410.39
+oneplus,OnePlus Nord CE 5G,128,8,6.43,4.0,4500,248.39
+oneplus,OnePlus Nord CE 5G,256,12,6.43,4.0,4500,305.62
+oneplus,OnePlus 8T,256,12,6.55,4.0,4500,189.55
+oneplus,OnePlus 12R,256,16,6.78,4.0,5500,603.5
+oneplus,OnePlus 12,512,16,6.82,8.0,5400,909.51
+oneplus,OnePlus Nord,128,8,6.44,4.0,4115,172.79
+oneplus,OnePlus Nord,256,12,6.44,4.0,4115,212.99
+oneplus,OnePlus Nord 3,256,16,6.74,4.0,5000,357.87
+oneplus,OnePlus 10T,256,12,6.7,4.0,4800,272.45
+oneplus,OnePlus 10T,256,16,6.7,4.0,4800,680.39
+oneplus,OnePlus 11,256,12,6.7,8.0,5000,432.67
+oneplus,OnePlus 11,256,16,6.7,8.0,5000,628.51
+oneplus,OnePlus 8 Pro,256,12,6.78,4.0,4510,210.01
+oneplus,OnePlus Nord CE 3 Lite,256,8,6.72,1080.0,5000,221.77
+oneplus,OnePlus 9,256,12,6.55,8.0,4500,136.98
+oneplus,OnePlus 9 Pro,256,8,6.7,8.0,4500,296.45
+oneplus,OnePlus 9 Pro,256,12,6.7,8.0,4500,203.14
+oppo,Oppo Reno6 5G,256,12,6.43,4.0,4300,264.59
+oppo,Oppo A16,64,4,6.52,1080.0,5000,90.9
+oppo,Oppo A16,256,4,6.52,1080.0,5000,156.59
+oppo,Oppo A54s,128,8,6.52,1080.0,5000,183.59
+oppo,Oppo A54 5G,128,4,6.5,1080.0,5000,135.48
+oppo,Oppo Reno12 Pro,512,12,6.7,4.0,5000,633.99
+oppo,Oppo A57 4G,64,4,6.56,1080.0,5000,168.92
+oppo,Oppo A77,128,6,6.56,1080.0,5000,144.71
+oppo,Oppo Reno8,256,8,6.4,4.0,4500,361.56
+oppo,Oppo Find X5,256,8,6.55,4.0,4800,255.72
+oppo,Oppo A96,128,8,6.59,1080.0,5000,232.19
+oppo,Oppo Find X5 Pro,256,12,6.7,4.0,5000,409.19
+oppo,Oppo Reno7,256,8,6.43,1080.0,4500,259.19
+oppo,Oppo Reno8 T,256,8,6.43,1080.0,5000,529.99
+oppo,Oppo Find N2 Flip,512,16,6.8,4.0,4300,755.99
+oppo,Oppo Find X3 Pro,256,12,6.7,4.0,4500,253.04
+oppo,Oppo A53,128,4,6.5,1080.0,5000,183.59
+oppo,Oppo Reno10,256,8,6.7,4.0,5000,329.9
+oppo,Oppo Find X3 Neo,256,12,6.55,4.0,4500,326.2
+oppo,Oppo Reno5 5G,256,12,6.43,4.0,4300,215.95
+realme,Realme C11,32,3,6.5,1080.0,5000,102.59
+realme,Realme 11,256,8,6.72,1080.0,5000,247.32
+realme,Realme 9 Pro,128,8,6.6,1080.0,5000,313.64
+realme,Realme 12+,256,8,6.67,4.0,5000,286.2
+realme,Realme C65,128,8,6.67,1080.0,5000,156.6
+realme,Realme 12 Pro+,256,8,6.7,4.0,5000,441.72
+realme,Realme 12 Pro,256,8,6.7,4.0,5000,308.87
+realme,Realme C61,256,6,6.74,1080.0,5000,161.98
+realme,Realme Note 50,128,4,6.74,1080.0,5000,107.99
+realme,8,512,12,6.78,4.0,5500,410.39
+realme,Realme Narzo 50A Prime,128,4,6.6,1080.0,5000,77.38
+realme,Realme GT Neo 3,128,8,6.7,4.0,5000,518.39
+realme,Realme GT Neo 3,256,8,6.7,4.0,5000,637.19
+realme,Realme 9 Pro+,128,8,6.4,4.0,4500,224.06
+realme,Realme 9i,128,4,6.6,1080.0,5000,161.99
+realme,Realme 9i,128,6,6.6,1080.0,5000,259.19
+realme,Realme C35,64,6,6.6,1080.0,5000,160.92
+realme,Realme GT2 Pro,256,12,6.7,8.0,5000,463.13
+realme,Realme 8,128,4,6.4,4.0,5000,121.24
+realme,Realme GT 5G,256,12,6.43,4.0,4500,399.59
+realme,Realme C51,128,4,6.74,1080.0,5000,124.19
+realme,Realme 10,128,4,6.4,1080.0,5000,257.03
+realme,Realme 10,128,6,6.4,1080.0,5000,259.19
+realme,Realme C55,256,8,6.72,1080.0,5000,118.01
+realme,Realme 11 Pro,256,8,6.7,4.0,5000,241.41
+realme,Realme 11 Pro,256,12,6.7,4.0,5000,361.68
+realme,Realme 11 Pro+,256,12,6.7,4.0,5000,471.41
+realme,Realme C53,256,8,6.74,1080.0,5000,143.52
+samsung,Samsung Galaxy A51,128,4,6.5,4.0,4000,202.05
+samsung,Samsung Galaxy A51,128,6,6.5,4.0,4000,165.56
+samsung,Samsung Galaxy S20 FE 5G,128,8,6.5,4.0,4500,323.99
+samsung,Samsung Galaxy A42 5G,128,6,6.6,4.0,5000,313.19
+samsung,Samsung Galaxy S22 5G,256,8,6.1,8.0,3700,289.98
+samsung,Samsung Galaxy S21 FE 5G,128,8,6.4,4.0,4500,367.77
+samsung,Samsung Galaxy S21 FE 5G,256,8,6.4,4.0,4500,474.12
+samsung,Samsung Galaxy A03,32,4,6.5,1080.0,5000,140.39
+samsung,Samsung Galaxy A03,64,4,6.5,1080.0,5000,136.46
+samsung,Samsung Galaxy S9+,64,6,6.2,4.0,3500,127.27
+samsung,Samsung Galaxy S9+,128,6,6.2,4.0,3500,301.32
+samsung,Samsung Galaxy S9+,256,6,6.2,4.0,3500,333.76
+samsung,Samsung Galaxy Note10+,512,12,6.8,4.0,4300,423.07
+samsung,Samsung Galaxy A71,128,8,6.7,4.0,4500,139.73
+samsung,Samsung Galaxy S20 5G,128,12,6.2,8.0,4000,376.92
+samsung,Samsung Galaxy S10e,128,8,5.8,4.0,3100,291.59
+samsung,Samsung Galaxy S10e,256,8,5.8,4.0,3100,345.59
+samsung,Samsung Galaxy S9,128,4,5.8,4.0,3000,143.64
+samsung,Samsung Galaxy S9,256,4,5.8,4.0,3000,239.74
+samsung,Samsung Galaxy S10,512,8,6.1,4.0,3400,193.31
+samsung,Samsung Galaxy S10+,128,8,6.4,4.0,4100,172.18
+samsung,Samsung Galaxy S10+,512,8,6.4,4.0,4100,265.25
+samsung,Samsung Galaxy A03s,32,3,6.5,1080.0,5000,125.24
+samsung,Samsung Galaxy A03s,32,4,6.5,1080.0,5000,149.04
+samsung,Samsung Galaxy A03s,64,4,6.5,1080.0,5000,189.91
+samsung,Samsung Galaxy S22+ 5G,256,8,6.6,8.0,4500,475.2
+samsung,Samsung Galaxy S22 Ultra 5G,256,12,6.8,8.0,5000,455.61
+samsung,Samsung Galaxy S22 Ultra 5G,512,12,6.8,8.0,5000,544.31
+samsung,Samsung Galaxy S22 Ultra 5G,1000,12,6.8,8.0,5000,592.92
+samsung,Samsung Galaxy A13,32,4,6.6,1080.0,5000,117.71
+samsung,Samsung Galaxy A13,64,4,6.6,1080.0,5000,118.69
+samsung,Samsung Galaxy A13,128,4,6.6,1080.0,5000,206.43
+samsung,Samsung Galaxy A53 5G,128,6,6.5,4.0,5000,319.0
+samsung,Samsung Galaxy A53 5G,128,8,6.5,4.0,5000,445.62
+samsung,Samsung Galaxy A33 5G,128,6,6.4,4.0,5000,254.06
+samsung,Samsung Galaxy A13 5G,128,4,6.5,1080.0,5000,199.8
+samsung,Samsung Galaxy M13,128,4,6.6,1080.0,5000,139.96
+samsung,Samsung Galaxy A13 (SM-A137),32,4,6.6,1080.0,5000,201.42
+samsung,Samsung Galaxy A13 (SM-A137),64,4,6.6,1080.0,5000,183.88
+samsung,Samsung Galaxy A23 5G,64,6,6.6,1080.0,5000,206.27
+samsung,Samsung Galaxy A23 5G,128,4,6.6,1080.0,5000,245.17
+samsung,Samsung Galaxy Z Flip4,256,8,6.7,4.0,3700,422.28
+samsung,Samsung Galaxy Z Flip4,512,8,6.7,4.0,3700,459.0
+samsung,Samsung Galaxy Z Fold4,512,12,7.6,8.0,4400,934.2
+samsung,Samsung Galaxy Z Fold4,1000,12,7.6,8.0,4400,853.16
+samsung,Samsung Galaxy M53,128,8,6.7,4.0,5000,421.19
+samsung,Samsung Galaxy M53,256,8,6.7,4.0,5000,271.17
+samsung,Samsung Galaxy Z Fold3 5G,512,12,7.6,4.0,4400,550.8
+samsung,Samsung Galaxy A52s 5G,128,6,6.5,4.0,4500,210.95
+samsung,Samsung Galaxy A04s,32,4,6.5,1080.0,5000,131.44
+samsung,Samsung Galaxy A15,128,6,6.5,1080.0,5000,146.97
+samsung,Samsung Galaxy A15,128,8,6.5,1080.0,5000,214.41
+samsung,Samsung Galaxy A15,256,8,6.5,1080.0,5000,199.32
+samsung,Samsung Galaxy S24 Ultra,512,12,6.8,8.0,5000,1100.52
+samsung,Samsung Galaxy S24 Ultra,1000,12,6.8,8.0,5000,1239.84
+samsung,Samsung Galaxy S24+,512,12,6.7,8.0,4900,863.63
+samsung,Samsung Galaxy A35,128,8,6.6,4.0,5000,265.59
+samsung,Samsung Galaxy A35,256,8,6.6,4.0,5000,312.08
+samsung,Samsung Galaxy A55,256,8,6.6,4.0,5000,344.52
+samsung,Samsung Galaxy A55,256,12,6.6,4.0,5000,379.03
+samsung,Samsung Galaxy M55,256,8,6.7,4.0,5000,353.14
+samsung,Samsung Galaxy S24,256,8,6.2,8.0,4000,668.52
+samsung,Samsung Galaxy S24,512,8,6.2,8.0,4000,755.89
+samsung,Samsung Galaxy M35,256,8,6.6,4.0,6000,249.48
+samsung,Samsung Galaxy Z Flip6,512,12,6.7,4.0,4000,729.01
+samsung,Samsung Galaxy M15,128,6,6.5,1080.0,6000,160.37
+samsung,Samsung Galaxy Z Fold6,512,12,7.6,8.0,4400,1274.29
+samsung,Samsung Galaxy Z Fold6,1000,12,7.6,8.0,4400,1476.36
+samsung,Samsung Galaxy S24 FE,256,8,6.7,8.0,4700,808.92
+samsung,Samsung Galaxy S24 FE,512,8,6.7,8.0,4700,873.72
+samsung,Samsung Galaxy A25,256,8,6.5,4.0,5000,203.81
+samsung,Samsung Galaxy A15 5G,128,6,6.5,1080.0,5000,183.46
+samsung,Samsung Galaxy A14,128,4,6.6,1080.0,5000,97.2
+samsung,Samsung Galaxy A14,128,6,6.6,1080.0,5000,152.92
+samsung,Samsung Galaxy S23,256,8,6.1,8.0,3900,535.68
+samsung,Samsung Galaxy S23,512,8,6.1,8.0,3900,700.34
+samsung,Samsung Galaxy A14 5G,128,4,6.6,1080.0,5000,150.12
+samsung,Samsung Galaxy A14 5G,128,6,6.6,1080.0,5000,201.83
+samsung,Samsung Galaxy S23+,512,8,6.6,8.0,4700,863.99
+samsung,Samsung Galaxy A34,256,8,6.6,4.0,5000,236.47
+samsung,Samsung Galaxy S23 Ultra,512,12,6.8,8.0,5000,808.92
+samsung,Samsung Galaxy S23 Ultra,1000,12,6.8,8.0,5000,949.55
+samsung,Samsung Galaxy A54,128,8,6.4,4.0,5000,307.8
+samsung,Samsung Galaxy A54,256,8,6.4,4.0,5000,361.8
+samsung,Samsung Galaxy Z Fold5,512,12,7.6,8.0,4400,1238.76
+samsung,Samsung Galaxy Z Fold5,1000,12,7.6,8.0,4400,971.94
+samsung,Samsung Galaxy Z Flip5,512,8,6.7,4.0,3700,521.56
+samsung,Samsung Galaxy A05s,128,4,6.7,1080.0,5000,119.06
+samsung,Samsung Galaxy A05s,128,6,6.7,1080.0,5000,140.42
+samsung,Samsung Galaxy Tab S9 FE+,256,12,12.4,4.0,10090,793.36
+samsung,Samsung Galaxy S23 FE,256,8,6.4,8.0,4500,442.79
+samsung,Samsung Galaxy A04e,32,4,6.5,1080.0,5000,113.76
+samsung,Samsung Galaxy A32 5G,128,4,6.5,4.0,5000,108.0
+samsung,Samsung Galaxy A32 5G,128,6,6.5,4.0,5000,139.63
+samsung,Samsung Galaxy A02,32,3,6.5,1080.0,5000,151.09
+samsung,Samsung Galaxy A02,32,4,6.5,1080.0,5000,259.09
+samsung,Samsung Galaxy S21 5G,256,8,6.2,8.0,4000,316.44
+samsung,Samsung Galaxy S21+ 5G,256,8,6.7,8.0,4800,352.08
+samsung,Samsung Galaxy S21 Ultra 5G,256,12,6.8,8.0,5000,508.56
+samsung,Samsung Galaxy S21 Ultra 5G,512,12,6.8,8.0,5000,548.85
+samsung,Samsung Galaxy S21 Ultra 5G,512,16,6.8,8.0,5000,755.99
+samsung,Samsung Galaxy A12,32,3,6.5,1080.0,5000,196.88
+samsung,Samsung Galaxy A12,64,4,6.5,1080.0,5000,145.8
+samsung,Samsung Galaxy A12,128,3,6.5,1080.0,5000,124.37
+samsung,Samsung Galaxy A02s,32,2,6.5,1080.0,5000,140.39
+samsung,Samsung Galaxy S20 Ultra 5G,256,12,6.9,8.0,5000,383.39
+samsung,Samsung Galaxy S20 Ultra 5G,512,16,6.9,8.0,5000,538.92
+samsung,Samsung Galaxy A31,128,4,6.4,1080.0,5000,193.32
+samsung,Samsung Galaxy A51 5G,128,8,6.5,4.0,4500,193.32
+samsung,Samsung Galaxy M11,64,4,6.4,1080.0,5000,119.87
+samsung,Samsung Galaxy Note20 5G,256,8,6.7,8.0,4300,463.9
+samsung,Samsung Galaxy Note20 Ultra 5G,256,8,6.9,8.0,4500,729.0
+samsung,Samsung Galaxy Note20 Ultra 5G,256,12,6.9,8.0,4500,505.16
+samsung,Samsung Galaxy Z Flip3 5G,256,8,6.7,4.0,3300,347.76
+samsung,Samsung Galaxy S20+ 5G,128,12,6.7,8.0,4500,429.83
+samsung,Samsung Galaxy S20+ 5G,256,12,6.7,8.0,4500,604.79
+samsung,Samsung Galaxy A22,128,4,6.4,1080.0,5000,132.6
+samsung,Samsung Galaxy A22,128,6,6.4,1080.0,5000,168.31
+samsung,Samsung Galaxy A52,128,6,6.5,4.0,4500,320.76
+samsung,Samsung Galaxy A52,128,8,6.5,4.0,4500,171.23
+samsung,Samsung Galaxy A52,256,6,6.5,4.0,4500,540.0
+samsung,Samsung Galaxy A52 5G,128,8,6.5,4.0,4500,343.43
+samsung,Samsung Galaxy A52 5G,256,8,6.5,4.0,4500,288.08
+samsung,Samsung Galaxy A32,128,4,6.4,1080.0,5000,266.59
+samsung,Samsung Galaxy A72,128,8,6.7,4.0,5000,397.43
+samsung,Samsung Galaxy A72,256,6,6.7,4.0,5000,464.39
+samsung,Samsung Galaxy M32,128,6,6.4,1080.0,5000,238.29
+samsung,Samsung Galaxy M12,32,4,6.5,1080.0,5000,184.28
+samsung,Samsung Galaxy A12 Nacho,32,4,6.5,1080.0,5000,131.58
+sony,Sony Xperia 1 VI,512,12,6.5,4.0,5000,1131.84
+sony,Sony Xperia 1 IV,512,12,6.5,4.0,5000,645.27
+sony,Sony Xperia 1 V,512,12,6.5,4.0,5000,1049.81
+sony,Sony Xperia 5 IV,256,8,6.1,4.0,5000,754.92
+sony,Sony Xperia 10 III,256,6,6.0,4.0,4500,208.76
+sony,Sony Xperia 5 III,256,8,6.1,4.0,4500,453.06
+sony,Sony Xperia 1 III,512,12,6.5,4.0,4500,489.83
+tcl,TCL 40 SE,256,6,6.75,1080.0,5010,92.56
+tcl,TCL 50 SE,256,6,6.78,1080.0,5010,250.37
+tecno,Tecno Pova 6 Pro,256,12,6.78,1440.0,6000,496.78
+tecno,Tecno Spark Go 2024,128,4,6.6,1080.0,5000,124.14
+tecno,Tecno Spark Go 2023,64,3,6.6,1080.0,5000,118.57
+tecno,Tecno Spark 10 Pro,256,8,6.8,1440.0,5000,172.78
+tecno,Tecno Spark 10 5G,128,8,6.6,1080.0,5000,157.62
+vivo,vivo Y76 5G,256,8,6.58,1080.0,4100,520.11
+vivo,vivo V40,512,12,6.78,4.0,5500,732.18
+vivo,vivo V21 5G,256,8,6.44,4.0,4000,142.61
+vivo,vivo V29,256,8,6.78,4.0,4600,523.32
+vivo,vivo V30,256,8,6.78,4.0,5000,752.75
+xiaomi,Xiaomi Poco X3 NFC,128,6,6.67,4.0,5160,196.81
+xiaomi,Xiaomi Poco M3 Pro 5G,128,6,6.5,1080.0,5000,172.79
+xiaomi,Xiaomi Redmi 12C,64,3,6.71,1080.0,5000,91.79
+xiaomi,Xiaomi Redmi 12C,64,4,6.71,1080.0,5000,104.94
+xiaomi,Xiaomi Redmi 12C,128,4,6.71,1080.0,5000,121.6
+xiaomi,Xiaomi Redmi 12C,128,6,6.71,1080.0,5000,127.43
+xiaomi,Xiaomi Redmi 13C 5G,128,6,6.74,1080.0,5000,152.28
+xiaomi,Xiaomi 12 Pro,256,8,6.73,8.0,4600,529.19
+xiaomi,Xiaomi 12 Pro,256,12,6.73,8.0,4600,525.73
+xiaomi,Xiaomi Redmi Note 12 Pro,128,8,6.67,4.0,5000,204.12
+xiaomi,Xiaomi Redmi Note 12 Pro,256,8,6.67,4.0,5000,255.54
+xiaomi,Xiaomi Redmi Note 12 Pro,256,12,6.67,4.0,5000,236.52
+xiaomi,Xiaomi 12T Pro,256,8,6.67,8.0,5000,430.92
+xiaomi,Xiaomi 12T Pro,256,12,6.67,8.0,5000,390.95
+xiaomi,Xiaomi Redmi A1+,32,3,6.52,1080.0,5000,77.75
+xiaomi,Xiaomi Poco M5,128,4,6.58,1080.0,5000,116.63
+xiaomi,Xiaomi Poco M5,128,6,6.58,1080.0,5000,172.79
+xiaomi,Xiaomi Poco M5s,128,4,6.43,4.0,5000,145.79
+xiaomi,Xiaomi Poco M5s,128,6,6.43,4.0,5000,170.63
+xiaomi,Xiaomi Poco M5s,256,8,6.43,4.0,5000,209.19
+xiaomi,Xiaomi Poco M4 5G,128,6,6.58,1080.0,5000,196.99
+xiaomi,Xiaomi 12T,256,8,6.67,4.0,5000,355.32
+xiaomi,Xiaomi Redmi Note 12 4G,128,4,6.67,1080.0,5000,113.66
+xiaomi,Xiaomi Redmi Note 12 4G,128,6,6.67,1080.0,5000,162.53
+xiaomi,Xiaomi Redmi Note 12 4G,128,8,6.67,1080.0,5000,212.19
+xiaomi,Xiaomi Redmi Note 12 4G,256,8,6.67,1080.0,5000,152.47
+xiaomi,Xiaomi Redmi A2+,32,3,6.52,1080.0,5000,102.44
+xiaomi,Xiaomi Redmi A2,64,3,6.52,1080.0,5000,80.99
+xiaomi,Xiaomi 13 Lite,256,8,6.55,4.0,4500,376.92
+xiaomi,Xiaomi 13,256,8,6.36,8.0,4500,677.83
+xiaomi,Xiaomi 13,256,12,6.36,8.0,4500,1056.22
+xiaomi,Xiaomi Poco X5 Pro,256,8,6.67,4.0,5000,302.39
+xiaomi,Xiaomi Poco X5,256,8,6.67,1080.0,5000,240.68
+xiaomi,Xiaomi Redmi Note 12,128,6,6.67,1080.0,5000,107.99
+xiaomi,Xiaomi Redmi Note 12,256,8,6.67,1080.0,5000,170.12
+xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,6.67,4.0,5000,228.92
+xiaomi,Xiaomi Redmi Note 12S,128,6,6.43,1080.0,5000,167.39
+xiaomi,Xiaomi Redmi Note 12S,256,8,6.43,1080.0,5000,168.48
+xiaomi,Xiaomi Poco X4 GT,256,8,6.6,4.0,5080,204.11
+xiaomi,Xiaomi Redmi 10A,32,3,6.53,1080.0,5000,89.22
+xiaomi,Xiaomi Redmi 10A,64,3,6.53,1080.0,5000,104.66
+xiaomi,Xiaomi Redmi Note 11S 5G,128,4,6.6,1080.0,5000,144.03
+xiaomi,Xiaomi Redmi Note 11S 5G,128,6,6.6,1080.0,5000,160.92
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,6.67,4.0,4500,215.98
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,256,8,6.67,4.0,4500,377.99
+xiaomi,Xiaomi Redmi 10 5G,128,4,6.58,1080.0,5000,138.15
+xiaomi,Xiaomi Redmi 10 5G,128,6,6.58,1080.0,5000,151.19
+xiaomi,Xiaomi 12,256,8,6.28,8.0,4500,194.39
+xiaomi,Xiaomi 12,256,12,6.28,8.0,4500,233.15
+xiaomi,Xiaomi 12X,256,8,6.28,8.0,4500,389.58
+xiaomi,Xiaomi 12X,256,12,6.28,8.0,4500,209.51
+xiaomi,Xiaomi Redmi 10C,64,4,6.71,1080.0,5000,116.1
+xiaomi,Xiaomi Poco X4 Pro 5G,128,6,6.67,1080.0,5000,245.13
+xiaomi,Xiaomi Poco X4 Pro 5G,128,8,6.67,1080.0,5000,285.76
+xiaomi,Xiaomi Poco M4 Pro,128,6,6.43,1080.0,5000,148.05
+xiaomi,Xiaomi Poco M4 Pro,128,8,6.43,1080.0,5000,215.99
+xiaomi,Xiaomi Poco C40,64,4,6.71,1080.0,6000,116.64
+xiaomi,Xiaomi Poco F4 GT,256,12,6.67,4.0,4700,389.58
+xiaomi,Xiaomi Poco F6 Pro,512,12,6.67,8.0,5000,447.2
+xiaomi,Xiaomi Poco F6 Pro,1000,16,6.67,8.0,5000,467.64
+xiaomi,Xiaomi Poco F6,512,12,6.67,4.0,5000,340.2
+xiaomi,Xiaomi 14,512,12,6.36,8.0,4610,752.25
+xiaomi,Xiaomi 14 Ultra,512,16,6.73,8.0,5000,1164.24
+xiaomi,Xiaomi Redmi A3,128,4,6.71,1080.0,5000,78.31
+xiaomi,Xiaomi Redmi A3,128,6,6.71,1080.0,5000,106.92
+xiaomi,Xiaomi Redmi 13,256,8,6.79,1080.0,5030,129.49
+xiaomi,Xiaomi Poco M6 4G,256,8,6.79,1080.0,5030,135.0
+xiaomi,Xiaomi 14T,512,12,6.67,4.0,5000,701.89
+xiaomi,Xiaomi 14T Pro,512,12,6.67,8.0,5000,825.55
+xiaomi,Xiaomi Redmi 14C,128,6,6.88,1080.0,5160,150.12
+xiaomi,Xiaomi Redmi 14C,128,8,6.88,1080.0,5160,213.35
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,6.67,1080.0,5000,307.08
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,6.67,1080.0,5000,213.55
+xiaomi,Xiaomi Redmi 12 5G,128,6,6.79,1080.0,5000,161.99
+xiaomi,Xiaomi Poco F5 Pro,256,12,6.67,8.0,5160,588.39
+xiaomi,Xiaomi Poco F5 Pro,512,12,6.67,8.0,5160,431.99
+xiaomi,Xiaomi Redmi 12,128,8,6.79,1080.0,5000,111.24
+xiaomi,Xiaomi Redmi 12,256,8,6.79,1080.0,5000,156.59
+xiaomi,Xiaomi Poco F5,256,12,6.67,4.0,5000,289.43
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,6.67,4.0,5000,199.09
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,256,8,6.67,4.0,5000,257.03
+xiaomi,Xiaomi 13T Pro,512,12,6.67,8.0,5000,496.79
+xiaomi,Xiaomi 13T Pro,1000,16,6.67,8.0,5000,1460.38
+xiaomi,Xiaomi Redmi Note 13 Pro,512,12,6.67,4.0,5100,278.64
+xiaomi,Xiaomi Redmi Note 13 Pro+,512,8,6.67,4.0,5000,339.12
+xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,6.67,4.0,5000,363.95
+xiaomi,Xiaomi Redmi Note 13 4G,128,8,6.67,1080.0,5000,152.45
+xiaomi,Xiaomi Redmi Note 13 4G,256,8,6.67,1080.0,5000,174.86
+xiaomi,Xiaomi Poco X6,256,12,6.67,4.0,5100,235.42
+xiaomi,Xiaomi Poco X6,512,12,6.67,4.0,5100,250.56
+xiaomi,Xiaomi Redmi Note 13,256,8,6.67,1080.0,5000,214.89
+xiaomi,Xiaomi Poco X6 Pro,512,12,6.67,4.0,5000,265.37
+xiaomi,Xiaomi Poco M6 Pro,512,12,6.67,1080.0,5000,186.3
+xiaomi,Xiaomi Redmi 13C,128,6,6.74,1080.0,5000,114.88
+xiaomi,Xiaomi Redmi 13C,256,8,6.74,1080.0,5000,132.82
+xiaomi,Xiaomi Poco C65,256,8,6.74,1080.0,5000,119.88
+xiaomi,Xiaomi Redmi 10 2022,128,4,6.5,1080.0,5000,116.63
+xiaomi,Xiaomi Redmi 10 2022,128,6,6.5,1080.0,5000,120.84
+xiaomi,Xiaomi Mi Note 10 Lite,128,6,6.47,4.0,5260,139.61
+xiaomi,Xiaomi Redmi Note 9,64,4,6.53,1080.0,5020,126.06
+xiaomi,Xiaomi Redmi Note 9,128,4,6.53,1080.0,5020,118.12
+xiaomi,Xiaomi Redmi Note 9S,128,4,6.67,4.0,5020,118.79
+xiaomi,Xiaomi Mi 10 5G,256,6,6.67,8.0,4780,309.74
+xiaomi,Xiaomi Mi 10 5G,256,8,6.67,8.0,4780,345.59
+xiaomi,Xiaomi Poco F2 Pro,256,8,6.67,8.0,4700,197.01
+xiaomi,Xiaomi Redmi 9C,32,3,6.53,1080.0,5000,91.25
+xiaomi,Xiaomi Redmi 9C,64,3,6.53,1080.0,5000,110.69
+xiaomi,Xiaomi Redmi Note 9 Pro,128,6,6.67,4.0,5020,186.83
+xiaomi,Xiaomi Redmi 9A,32,3,6.53,1080.0,5000,66.36
+xiaomi,Xiaomi Redmi 9,64,4,6.53,1080.0,5020,118.79
+xiaomi,Xiaomi Redmi 9,128,4,6.53,1080.0,5020,129.59
+xiaomi,Xiaomi Redmi Note 9T,128,4,6.53,4.0,5000,140.39
+xiaomi,Xiaomi Redmi Note 9T,128,6,6.53,4.0,5000,215.99
+xiaomi,Xiaomi Mi 10T Pro 5G,256,8,6.67,8.0,5000,161.99
+xiaomi,Xiaomi Mi 10T 5G,128,8,6.67,8.0,5000,268.92
+xiaomi,Xiaomi Redmi 9T,128,4,6.53,1080.0,6000,109.07
+xiaomi,Xiaomi Poco F3,128,8,6.67,4.0,4520,198.04
+xiaomi,Xiaomi Mi 11 Lite,128,6,6.55,4.0,4250,170.41
+xiaomi,Xiaomi Mi 11 Lite,128,8,6.55,4.0,4250,269.99
+xiaomi,Xiaomi Mi 11 Lite 5G,128,6,6.55,4.0,4250,259.65
+xiaomi,Xiaomi Mi 11 Lite 5G,128,8,6.55,4.0,4250,131.75
+xiaomi,Xiaomi Poco X3 Pro,128,8,6.67,4.0,5160,174.85
+xiaomi,Xiaomi Redmi Note 10 Pro,128,6,6.67,4.0,5020,212.75
+xiaomi,Xiaomi Redmi Note 10 Pro,128,8,6.67,4.0,5020,237.59
+xiaomi,Xiaomi Redmi Note 10 Pro,256,8,6.67,4.0,5020,207.77
+xiaomi,Xiaomi Redmi Note 10 5G,128,4,6.5,1080.0,5000,102.59
+xiaomi,Xiaomi Redmi Note 10 5G,128,6,6.5,1080.0,5000,194.03
+xiaomi,Xiaomi Redmi Note 10 5G,128,8,6.5,1080.0,5000,302.29
+xiaomi,Xiaomi Redmi Note 10S,128,4,6.43,4.0,5000,166.31
+xiaomi,Xiaomi Redmi Note 10S,128,6,6.43,4.0,5000,172.79
+xiaomi,Xiaomi Redmi Note 10,128,4,6.43,4.0,5000,104.75
+xiaomi,Xiaomi Redmi Note 10,128,6,6.43,4.0,5000,107.99
+xiaomi,Xiaomi Mi 11,128,8,6.81,8.0,4600,215.89
+xiaomi,Xiaomi Redmi Note 11 Pro,128,6,6.67,1080.0,5000,167.39
+xiaomi,Xiaomi Redmi Note 11 Pro,128,8,6.67,1080.0,5000,180.05
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,4,6.67,1080.0,5000,169.89
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,6.67,1080.0,5000,161.99
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,6.67,1080.0,5000,270.0
+xiaomi,Xiaomi Redmi Note 11,64,6,6.43,1080.0,5000,137.15
+xiaomi,Xiaomi Redmi Note 11,128,4,6.43,1080.0,5000,149.58
+xiaomi,Xiaomi Redmi Note 11,128,6,6.43,1080.0,5000,188.99
+xiaomi,Xiaomi Redmi Note 11S,128,6,6.43,1080.0,5000,143.63
+xiaomi,Xiaomi Redmi Note 11S,128,8,6.43,1080.0,5000,168.78
+xiaomi,Xiaomi Redmi Note 11 4G,128,6,6.5,1080.0,5000,95.04
+xiaomi,Xiaomi Poco M4 Pro 5G,64,6,6.6,1080.0,5000,161.14
+xiaomi,Xiaomi Poco M4 Pro 5G,128,6,6.6,1080.0,5000,196.99
+xiaomi,Xiaomi Poco X3 GT,256,8,6.6,4.0,5000,214.42
+xiaomi,Xiaomi Redmi 10,128,4,6.5,1080.0,5000,113.4
+xiaomi,Xiaomi Redmi 10,128,6,6.5,1080.0,5000,129.59
+xiaomi,Xiaomi 11T Pro,256,8,6.67,8.0,5000,274.32
+xiaomi,Xiaomi 11T Pro,256,12,6.67,8.0,5000,197.63
+xiaomi,Xiaomi 11 Lite 5G NE,128,8,6.55,4.0,4250,208.32
+xiaomi,Xiaomi 11T,256,8,6.67,4.0,5000,194.4
+zte,ZTE Blade A75 4G,256,4,6.6,1080.0,5000,115.55
+zte,ZTE nubia Flip,256,8,6.9,4.0,4310,539.99
+zte,ZTE nubia Z50S Pro,1000,12,6.8,8.0,5100,547.53
+zte,ZTE Blade V60 Design,256,6,6.6,1080.0,5000,127.43
+zte,ZTE nubia Red Magic 9S Pro,512,16,6.8,8.0,6500,808.92
+apple,Apple iPhone 16 Pro,256,8,6.3,4.0,3582,999.99
+apple,Apple iPhone 16 Pro,512,8,6.3,4.0,3582,1099.99
+apple,Apple iPhone 16 Pro,1000,8,6.3,4.0,3582,1299.99
+apple,Apple iPhone 16 Pro Max,512,8,6.9,4.0,4685,1199.99
+apple,Apple iPhone 16 Pro Max,1000,8,6.9,4.0,4685,1399.99
+apple,Apple iPhone 12 mini,128,4,5.4,4.0,2227,208.0
+apple,Apple iPhone 12 mini,256,4,5.4,4.0,2227,241.64
+apple,Apple iPhone 13 mini,256,4,5.4,4.0,2438,342.0
+apple,Apple iPhone 13 mini,512,4,5.4,4.0,2438,395.0
+apple,Apple iPhone XR,128,3,6.1,4.0,2942,160.0
+apple,Apple iPhone XR,256,3,6.1,4.0,2942,187.99
+apple,Apple iPhone XS Max,256,4,6.5,4.0,3174,219.28
+apple,Apple iPhone XS Max,512,4,6.5,4.0,3174,279.49
+apple,Apple iPhone 12 Pro Max,256,6,6.7,4.0,3687,410.33
+apple,Apple iPhone 12 Pro Max,512,6,6.7,4.0,3687,500.0
+apple,Apple iPhone X,256,3,5.8,4.0,2716,162.9
+apple,Apple iPhone XS,256,4,5.8,4.0,2658,172.65
+apple,Apple iPhone XS,512,4,5.8,4.0,2658,193.0
+apple,Apple iPhone 11,128,4,6.1,4.0,3110,208.0
+apple,Apple iPhone 11,256,4,6.1,4.0,3110,239.0
+apple,Apple iPhone 11 Pro,256,4,5.8,4.0,3046,259.9
+apple,Apple iPhone 11 Pro,512,4,5.8,4.0,3046,249.0
+apple,Apple iPhone 11 Pro Max,256,4,6.5,4.0,3969,285.0
+apple,Apple iPhone 11 Pro Max,512,4,6.5,4.0,3969,341.96
+apple,Apple iPhone SE (2020),128,3,4.7,4.0,1821,99.64
+apple,Apple iPhone SE (2020),256,3,4.7,4.0,1821,130.72
+apple,Apple iPhone 12,128,4,6.1,4.0,2815,249.99
+apple,Apple iPhone 12,256,4,6.1,4.0,2815,291.75
+apple,Apple iPhone 12 Pro,256,6,6.1,4.0,2815,357.55
+apple,Apple iPhone 12 Pro,512,6,6.1,4.0,2815,389.99
+apple,Apple iPhone 14,256,6,6.1,4.0,3279,447.5
+apple,Apple iPhone 14,512,6,6.1,4.0,3279,530.0
+apple,Apple iPhone 14 Plus,256,6,6.7,4.0,4323,427.99
+apple,Apple iPhone 14 Plus,512,6,6.7,4.0,4323,569.95
+apple,Apple iPhone 14 Pro,256,6,6.1,4.0,3200,603.41
+apple,Apple iPhone 14 Pro,512,6,6.1,4.0,3200,679.05
+apple,Apple iPhone 14 Pro,1000,6,6.1,4.0,3200,698.06
+apple,Apple iPhone 14 Pro Max,256,6,6.7,4.0,4323,686.07
+apple,Apple iPhone 14 Pro Max,512,6,6.7,4.0,4323,668.95
+apple,Apple iPhone 14 Pro Max,1000,6,6.7,4.0,4323,787.5
+apple,Apple iPhone 14 Pro Max,256,6,6.7,4.0,4323,999.99
+apple,Apple iPhone SE (2022),128,4,4.7,4.0,2018,126.49
+apple,Apple iPhone SE (2022),256,4,4.7,4.0,2018,233.33
+apple,Apple iPhone 15,256,6,6.1,4.0,3349,525.98
+apple,Apple iPhone 15,512,6,6.1,4.0,3349,716.99
+apple,Apple iPhone 15,256,6,6.1,4.0,3349,829.99
+apple,Apple iPhone 15,512,6,6.1,4.0,3349,929.99
+apple,Apple iPhone 15 Pro Max,512,8,6.7,4.0,4441,788.95
+apple,Apple iPhone 15 Pro Max,1000,8,6.7,4.0,4441,1056.99
+apple,Apple iPhone 15 Pro Max,512,8,6.7,4.0,4441,1199.99
+apple,Apple iPhone 15 Pro Max,1000,8,6.7,4.0,4441,1399.99
+apple,Apple iPhone 15 Plus,256,6,6.7,4.0,4383,629.99
+apple,Apple iPhone 15 Plus,512,6,6.7,4.0,4383,726.75
+apple,Apple iPhone 15 Plus,256,6,6.7,4.0,4383,929.99
+apple,Apple iPhone 15 Plus,512,6,6.7,4.0,4383,1029.99
+apple,Apple iPhone 15 Pro,256,8,6.1,4.0,3274,787.49
+apple,Apple iPhone 15 Pro,512,8,6.1,4.0,3274,827.5
+apple,Apple iPhone 15 Pro,1000,8,6.1,4.0,3274,989.99
+apple,Apple iPhone 15 Pro,256,8,6.1,4.0,3274,999.99
+apple,Apple iPhone 15 Pro,512,8,6.1,4.0,3274,1099.99
+apple,Apple iPhone 15 Pro,1000,8,6.1,4.0,3274,1299.99
+apple,Apple iPhone 16,256,8,6.1,4.0,3561,829.99
+apple,Apple iPhone 16,512,8,6.1,4.0,3561,929.99
+apple,Apple iPhone 16 Plus,256,8,6.7,4.0,4674,929.99
+apple,Apple iPhone 16 Plus,512,8,6.7,4.0,4674,1029.99
+apple,Apple iPhone 13 Pro Max,256,6,6.7,4.0,4352,538.95
+apple,Apple iPhone 13 Pro Max,512,6,6.7,4.0,4352,590.24
+apple,Apple iPhone 13 Pro Max,1000,6,6.7,4.0,4352,624.4
+apple,Apple iPhone 13,256,4,6.1,4.0,3240,318.8
+apple,Apple iPhone 13,512,4,6.1,4.0,3240,433.45
+apple,Apple iPhone 13 Pro,256,6,6.1,4.0,3095,495.98
+apple,Apple iPhone 13 Pro,512,6,6.1,4.0,3095,521.15
+apple,Apple iPhone 13 Pro,1000,6,6.1,4.0,3095,662.54
+asus,Asus ROG Phone 7,512,16,6.78,8.0,6000,888.0
+asus,Asus Zenfone 10,256,8,5.92,8.0,4300,658.0
+asus,Asus Zenfone 10,256,16,5.92,8.0,4300,659.0
+asus,Asus Zenfone 10,512,16,5.92,8.0,4300,814.0
+asus,Asus ROG Phone 8,256,16,6.78,8.0,5500,799.99
+asus,Asus ROG Phone 8 Pro,1000,24,6.78,8.0,5500,1054.0
+asus,Asus Zenfone 11 Ultra,512,16,6.78,8.0,5500,699.99
+asus,Asus ROG Phone 6,128,12,6.78,8.0,6000,697.0
+google,Google Pixel 8,256,8,6.2,4.0,4575,374.94
+google,Google Pixel 4 XL,128,6,6.3,4.0,3700,121.99
+google,Google Pixel 4 XL,128,6,6.3,4.0,3700,599.99
+google,Google Pixel 4,128,6,5.7,4.0,2800,107.99
+google,Google Pixel 6,256,8,6.4,4.0,4614,199.08
+google,Google Pixel 9 Pro Fold,512,16,8.0,4.0,4650,1799.0
+google,Google Pixel 9,256,12,6.3,4.0,4700,754.99
+google,Google Pixel 9 Pro,256,16,6.3,8.0,4700,1082.97
+google,Google Pixel 9 Pro XL,256,16,6.8,8.0,5060,1059.89
+google,Google Pixel 9 Pro XL,512,16,6.8,8.0,5060,1199.0
+google,Google Pixel 9 Pro XL,1000,16,6.8,8.0,5060,1319.0
+google,Google Pixel 8 Pro,256,12,6.7,4.0,5050,459.95
+google,Google Pixel 8 Pro,512,12,6.7,4.0,5050,494.95
+google,Google Pixel 8 Pro,1000,12,6.7,4.0,5050,609.99
+google,Google Pixel 8 Pro,256,12,6.7,4.0,5050,999.0
+google,Google Pixel 8 Pro,512,12,6.7,4.0,5050,1059.0
+google,Google Pixel 8 Pro,1000,12,6.7,4.0,5050,1179.0
+google,Google Pixel 8a,256,8,6.1,4.0,4492,332.0
+google,Google Pixel Fold,512,12,7.6,4.0,4821,617.99
+google,Google Pixel 6 Pro,256,12,6.7,4.0,5003,204.95
+google,Google Pixel 6 Pro,512,12,6.7,4.0,5003,269.99
+google,Google Pixel 7 Pro,256,12,6.7,4.0,5000,298.31
+google,Google Pixel 7 Pro,512,12,6.7,4.0,5000,360.0
+google,Google Pixel 7 Pro,256,12,6.7,4.0,5000,899.0
+google,Google Pixel 7 Pro,512,12,6.7,4.0,5000,999.0
+google,Google Pixel 7,256,8,6.3,4.0,4355,245.5
+honor,Honor 70,256,8,6.67,4.0,4800,620.0
+honor,Honor Magic5 Lite,256,8,6.67,1080.0,5100,329.99
+honor,Honor X7,128,6,6.74,1080.0,5000,370.0
+honor,Honor Magic5 Pro,256,12,6.81,4.0,5100,999.0
+honor,Honor Magic5 Pro,512,12,6.81,4.0,5100,999.0
+honor,Honor X8a,128,8,6.7,1080.0,4500,405.0
+honor,Honor 90,512,12,6.7,4.0,5000,490.0
+honor,Honor X7a,128,6,6.75,1080.0,6000,189.99
+honor,Honor X8b,256,6,6.7,1080.0,4500,289.99
+honor,Honor X7b,128,8,6.8,1080.0,5330,349.0
+honor,Honor Magic6 Pro,512,12,6.8,4.0,5600,845.0
+honor,Honor Magic V2,512,16,7.92,4.0,5000,1148.5
+honor,Honor 50,128,8,6.57,4.0,4300,369.5
+htc,HTC U23 Pro,256,12,6.7,4.0,4600,399.0
+huawei,Huawei P30,128,6,6.1,4.0,3650,270.0
+huawei,Huawei P60 Pro,512,12,6.67,4.0,4815,1290.0
+huawei,Huawei Mate 50 Pro,512,8,6.74,4.0,4700,699.99
+huawei,Huawei nova Y90,128,6,6.7,1080.0,5000,179.99
+motorola,Motorola Moto G23,128,8,6.5,1080.0,5000,160.0
+motorola,Motorola Moto E22,64,4,6.5,1080.0,4020,265.0
+motorola,Motorola Moto G53,128,4,6.5,1080.0,5000,295.0
+motorola,Motorola Edge 20 Pro,128,8,6.7,8.0,4500,359.95
+motorola,Motorola Edge 20,256,8,6.7,4.0,4000,375.0
+motorola,Motorola Moto G Stylus 5G,256,6,6.8,1080.0,5000,84.98
+motorola,Motorola Moto G30,128,4,6.5,1080.0,5000,370.99
+motorola,Motorola Moto G30,128,6,6.5,1080.0,5000,190.0
+motorola,Motorola One 5G Ace,128,6,6.7,4.0,5000,68.0
+motorola,Motorola Moto G 5G,128,2,6.7,4.0,5000,84.74
+motorola,Motorola Moto G Power (2021),64,4,6.6,1080.0,5000,64.95
+motorola,Motorola Moto G Power (2021),64,4,6.6,1080.0,5000,189.99
+motorola,Motorola Moto G Stylus 5G (2022),128,6,6.8,1080.0,5000,84.95
+motorola,Motorola Moto G Stylus 5G (2022),256,8,6.8,1080.0,5000,249.99
+motorola,Motorola Moto G Stylus 5G (2022),128,6,6.8,1080.0,5000,299.99
+motorola,Motorola Edge 30,128,8,6.5,4.0,4020,495.0
+motorola,Motorola Moto G (2022),256,6,6.5,1080.0,5000,147.99
+motorola,Motorola Moto G (2022),256,6,6.5,1080.0,5000,399.99
+motorola,Motorola Edge 30 Pro,256,8,6.7,8.0,4800,999.0
+motorola,Motorola Edge 30 Pro,256,12,6.7,8.0,4800,229.99
+motorola,Motorola Edge 30 Pro,256,8,6.7,8.0,4800,999.99
+motorola,Motorola Moto G52,128,6,6.6,1080.0,5000,425.0
+motorola,Motorola Moto G71 5G,128,6,6.4,1080.0,5000,390.0
+motorola,Motorola Moto G51 5G,64,6,6.8,1080.0,5000,160.99
+motorola,Motorola Moto G31,128,4,6.4,1080.0,5000,189.0
+motorola,Motorola Moto G Power (2022),128,4,6.5,1080.0,5000,59.98
+motorola,Motorola Moto G82,128,8,6.6,1080.0,5000,99.5
+motorola,Motorola Moto E13,64,4,6.5,1080.0,5000,60.0
+motorola,Motorola ThinkPhone,256,8,6.6,8.0,5000,775.0
+motorola,Motorola Moto G72,128,8,6.6,1080.0,5000,179.99
+motorola,Motorola Moto G72,256,8,6.6,1080.0,5000,184.5
+motorola,Motorola Edge 30 Ultra,256,8,6.67,8.0,4610,990.0
+motorola,Motorola Edge 30 Ultra,256,12,6.67,8.0,4610,990.0
+motorola,Motorola Edge 30 Fusion,256,8,6.55,8.0,4400,264.95
+motorola,Motorola Moto G13,128,4,6.5,1080.0,5000,95.0
+motorola,Motorola Moto G42,128,4,6.4,1080.0,5000,345.0
+motorola,Motorola Edge 30 Neo,128,8,6.28,1080.0,4020,410.0
+motorola,Motorola Edge (2022),256,8,6.6,4.0,5000,99.99
+motorola,Motorola Edge (2022),256,8,6.6,4.0,5000,239.99
+motorola,Motorola Moto G32,128,4,6.5,1080.0,5000,268.0
+motorola,Motorola Moto G32,128,6,6.5,1080.0,5000,299.0
+motorola,Motorola Moto G73,256,8,6.5,1080.0,5000,234.11
+motorola,Motorola Edge 40 Neo,256,12,6.55,4.0,5000,489.99
+motorola,Motorola Moto G14,256,8,6.5,1080.0,5000,99.0
+motorola,Motorola Moto G54,256,8,6.5,1080.0,5000,129.99
+motorola,Motorola Razr 40 Ultra,256,12,6.9,4.0,3800,309.95
+motorola,Motorola Razr 40,256,8,6.9,4.0,4200,312.99
+motorola,Motorola Edge 40,256,8,6.55,4.0,4400,359.99
+motorola,Motorola Moto G Stylus 5G (2023),256,6,6.6,4.0,5000,168.0
+motorola,Motorola Moto G Stylus 5G (2023),256,6,6.6,4.0,5000,399.99
+motorola,Motorola Moto G (2023),128,4,6.5,1080.0,5000,79.95
+motorola,Motorola Moto G (2023),128,4,6.5,1080.0,5000,169.99
+motorola,Motorola Moto G85,256,12,6.67,1080.0,5000,266.56
+motorola,Motorola Moto G Stylus 5G (2024),256,8,6.7,4.0,5000,212.31
+motorola,Motorola Moto G Stylus 5G (2024),256,8,6.7,4.0,5000,399.99
+motorola,Motorola Edge 50 Fusion,256,8,6.7,4.0,5000,450.0
+motorola,Motorola Edge 50 Pro,256,12,6.7,4.0,4500,699.0
+motorola,Motorola Moto G24 Power,128,8,6.56,1080.0,6000,129.0
+nokia,Nokia X20,128,8,6.67,1080.0,4470,399.0
+nokia,Nokia G42,128,6,6.56,1080.0,5000,240.01
+nokia,Nokia C32,64,4,6.5,1080.0,5000,110.26
+nokia,Nokia C32,128,4,6.5,1080.0,5000,125.73
+nokia,Nokia X30,256,8,6.43,1080.0,4200,529.0
+nokia,Nokia G100,128,4,6.52,1080.0,5000,56.87
+nokia,Nokia G100,128,4,6.52,1080.0,5000,169.99
+nokia,Nokia G60,128,4,6.58,1080.0,4500,400.0
+nokia,Nokia G60,128,6,6.58,1080.0,4500,299.99
+nokia,Nokia G22,128,4,6.5,1080.0,5050,190.16
+nokia,Nokia XR20,128,6,6.67,1080.0,4630,490.0
+nokia,Nokia G11,64,4,6.5,1080.0,5050,255.0
+nokia,Nokia C21 Plus,32,3,6.52,1080.0,5050,233.0
+nokia,Nokia G21,64,4,6.5,1080.0,5050,159.99
+nokia,Nokia G21,128,4,6.5,1080.0,5050,219.99
+nothing,Nothing Phone (2a),256,12,6.7,4.0,5000,349.99
+nothing,Nothing Phone (1),256,8,6.55,4.0,4500,529.0
+nothing,Nothing Phone (1),256,12,6.55,4.0,4500,349.5
+nothing,Nothing Phone (2),256,12,6.7,4.0,4700,590.0
+nothing,Nothing Phone (2),512,12,6.7,4.0,4700,634.5
+oneplus,OnePlus 9R,256,8,6.55,4.0,4500,495.0
+oneplus,OnePlus Nord N20 SE,128,4,6.56,1080.0,5000,149.99
+oneplus,OnePlus Nord 2T,256,12,6.43,4.0,4500,359.99
+oneplus,OnePlus 10 Pro,256,8,6.7,8.0,5000,239.95
+oneplus,OnePlus 10 Pro,256,12,6.7,8.0,5000,750.0
+oneplus,OnePlus Nord CE 2 5G,128,8,6.43,4.0,4500,199.99
+oneplus,OnePlus 7T,256,8,6.55,4.0,3800,129.9
+oneplus,OnePlus Nord 2 5G,128,8,6.43,4.0,4500,185.0
+oneplus,OnePlus Nord 2 5G,256,12,6.43,4.0,4500,405.0
+oneplus,OnePlus 9RT 5G,256,8,6.62,4.0,4500,419.99
+oneplus,OnePlus 8T,256,12,6.55,4.0,4500,219.95
+oneplus,OnePlus 12R,256,16,6.78,4.0,5500,429.99
+oneplus,OnePlus 12R,256,16,6.78,4.0,5500,499.99
+oneplus,OnePlus 12,512,16,6.82,8.0,5400,649.99
+oneplus,OnePlus 12,512,16,6.82,8.0,5400,799.99
+oneplus,OnePlus Nord,128,8,6.44,4.0,4115,199.99
+oneplus,OnePlus 10T,256,12,6.7,4.0,4800,259.94
+oneplus,OnePlus 10T,256,16,6.7,4.0,4800,599.99
+oneplus,OnePlus 11,256,12,6.7,8.0,5000,595.0
+oneplus,OnePlus 11,256,16,6.7,8.0,5000,553.91
+oneplus,OnePlus 8 Pro,256,12,6.78,4.0,4510,425.0
+oneplus,OnePlus Nord CE 3 Lite,256,8,6.72,1080.0,5000,235.0
+oneplus,OnePlus 9,256,12,6.55,8.0,4500,167.62
+oneplus,OnePlus 8,128,8,6.55,4.0,4300,897.0
+oneplus,OnePlus 8,256,12,6.55,4.0,4300,499.95
+oneplus,OnePlus 9 Pro,256,8,6.7,8.0,4500,550.0
+oppo,Oppo Reno6 5G,256,12,6.43,4.0,4300,293.0
+oppo,Oppo A16,64,4,6.52,1080.0,5000,350.0
+oppo,Oppo A54s,128,8,6.52,1080.0,5000,179.99
+oppo,Oppo A54 5G,128,4,6.5,1080.0,5000,441.0
+oppo,Oppo Reno12,512,12,6.7,4.0,5000,539.0
+oppo,Oppo Find X5,256,8,6.55,4.0,4800,359.25
+oppo,Oppo A96,128,8,6.59,1080.0,5000,495.0
+oppo,Oppo Find X5 Pro,256,12,6.7,4.0,5000,1070.0
+oppo,Oppo Reno7,256,8,6.43,1080.0,4500,530.0
+oppo,Oppo Reno11,256,12,6.7,4.0,5000,372.72
+oppo,Oppo Find X3 Pro,256,12,6.7,4.0,4500,620.0
+oppo,Oppo Find N3 Flip,512,12,6.8,4.0,4300,849.0
+oppo,Oppo Reno10,256,8,6.7,4.0,5000,428.36
+oppo,Oppo Find X3 Neo,256,12,6.55,4.0,4500,660.0
+oppo,Oppo A15,32,3,6.52,1080.0,4230,405.0
+realme,Realme 6 Pro,128,6,6.6,4.0,4300,539.0
+realme,Realme 9 Pro,128,8,6.6,1080.0,5000,199.99
+realme,Realme 12 Pro+,256,8,6.7,4.0,5000,534.98
+realme,Realme 12 Pro,256,8,6.7,4.0,5000,540.0
+realme,Realme Note 50,128,4,6.74,1080.0,5000,215.0
+realme,Realme GT Neo 3,128,8,6.7,4.0,5000,655.0
+realme,Realme C31,64,4,6.5,1080.0,5000,266.12
+realme,Realme 9,128,8,6.4,1080.0,5000,279.0
+realme,Realme 9i,128,4,6.6,1080.0,5000,209.75
+realme,Realme 9i,128,6,6.6,1080.0,5000,179.99
+realme,Realme C35,64,6,6.6,1080.0,5000,109.0
+realme,Realme C35,128,4,6.6,1080.0,5000,90.0
+realme,Realme GT Master,128,8,6.43,4.0,4300,249.99
+realme,Realme 10,128,4,6.4,1080.0,5000,361.0
+realme,Realme C55,256,8,6.72,1080.0,5000,275.0
+realme,Realme C53,256,8,6.74,1080.0,5000,159.99
+samsung,Samsung Galaxy A51,128,4,6.5,4.0,4000,122.64
+samsung,Samsung Galaxy S20 FE 5G,128,8,6.5,4.0,4500,119.99
+samsung,Samsung Galaxy S20 FE 5G,256,8,6.5,4.0,4500,479.97
+samsung,Samsung Galaxy A42 5G,128,6,6.6,4.0,5000,129.99
+samsung,Samsung Galaxy S22 5G,256,8,6.1,8.0,3700,219.95
+samsung,Samsung Galaxy S22 5G,256,8,6.1,8.0,3700,449.99
+samsung,Samsung Galaxy S21 FE 5G,128,8,6.4,4.0,4500,150.0
+samsung,Samsung Galaxy S21 FE 5G,256,8,6.4,4.0,4500,499.0
+samsung,Samsung Galaxy A03,32,4,6.5,1080.0,5000,99.0
+samsung,Samsung Galaxy S9+,64,6,6.2,4.0,3500,219.22
+samsung,Samsung Galaxy S9+,128,6,6.2,4.0,3500,148.44
+samsung,Samsung Galaxy Note10+,512,12,6.8,4.0,4300,278.0
+samsung,Samsung Galaxy A71,128,8,6.7,4.0,4500,159.07
+samsung,Samsung Galaxy S20 5G,128,12,6.2,8.0,4000,169.79
+samsung,Samsung Galaxy S10e,128,8,5.8,4.0,3100,121.77
+samsung,Samsung Galaxy S10e,256,8,5.8,4.0,3100,144.5
+samsung,Samsung Galaxy S9,128,4,5.8,4.0,3000,130.0
+samsung,Samsung Galaxy S10,128,8,6.1,4.0,3400,169.99
+samsung,Samsung Galaxy S10,512,8,6.1,4.0,3400,259.0
+samsung,Samsung Galaxy S10+,128,8,6.4,4.0,4100,170.0
+samsung,Samsung Galaxy S10+,512,8,6.4,4.0,4100,485.99
+samsung,Samsung Galaxy S10+,1000,12,6.4,4.0,4100,489.0
+samsung,Samsung Galaxy A03s,32,3,6.5,1080.0,5000,68.49
+samsung,Samsung Galaxy A03s,32,4,6.5,1080.0,5000,130.0
+samsung,Samsung Galaxy A03s,32,3,6.5,1080.0,5000,159.99
+samsung,Samsung Galaxy S22+ 5G,256,8,6.6,8.0,4500,274.0
+samsung,Samsung Galaxy S22+ 5G,256,8,6.6,8.0,4500,999.99
+samsung,Samsung Galaxy S22+ 5G,256,8,6.6,8.0,4500,829.99
+samsung,Samsung Galaxy A23,64,6,6.6,1080.0,5000,147.99
+samsung,Samsung Galaxy A23,128,4,6.6,1080.0,5000,174.99
+samsung,Samsung Galaxy S22 Ultra 5G,256,12,6.8,8.0,5000,360.99
+samsung,Samsung Galaxy S22 Ultra 5G,512,12,6.8,8.0,5000,384.95
+samsung,Samsung Galaxy S22 Ultra 5G,1000,12,6.8,8.0,5000,394.95
+samsung,Samsung Galaxy S22 Ultra 5G,256,12,6.8,8.0,5000,829.0
+samsung,Samsung Galaxy S22 Ultra 5G,512,12,6.8,8.0,5000,929.0
+samsung,Samsung Galaxy A13,32,4,6.6,1080.0,5000,87.0
+samsung,Samsung Galaxy A13,64,4,6.6,1080.0,5000,104.0
+samsung,Samsung Galaxy A13,128,4,6.6,1080.0,5000,114.99
+samsung,Samsung Galaxy A53 5G,128,6,6.5,4.0,5000,134.09
+samsung,Samsung Galaxy A53 5G,128,8,6.5,4.0,5000,183.7
+samsung,Samsung Galaxy A53 5G,256,6,6.5,4.0,5000,219.99
+samsung,Samsung Galaxy A53 5G,256,8,6.5,4.0,5000,389.0
+samsung,Samsung Galaxy A53 5G,128,6,6.5,4.0,5000,499.99
+samsung,Samsung Galaxy A33 5G,128,6,6.4,4.0,5000,299.99
+samsung,Samsung Galaxy A13 5G,128,4,6.5,1080.0,5000,79.0
+samsung,Samsung Galaxy A73 5G,128,8,6.7,4.0,5000,599.0
+samsung,Samsung Galaxy A23 5G,64,6,6.6,1080.0,5000,100.0
+samsung,Samsung Galaxy A23 5G,64,6,6.6,1080.0,5000,299.99
+samsung,Samsung Galaxy Z Flip4,256,8,6.7,4.0,3700,351.0
+samsung,Samsung Galaxy Z Flip4,512,8,6.7,4.0,3700,235.0
+samsung,Samsung Galaxy Z Flip4,256,8,6.7,4.0,3700,899.99
+samsung,Samsung Galaxy Z Flip4,512,8,6.7,4.0,3700,809.99
+samsung,Samsung Galaxy Z Flip4,256,8,6.7,4.0,3700,999.99
+samsung,Samsung Galaxy Z Flip4,512,8,6.7,4.0,3700,1059.99
+samsung,Samsung Galaxy A04,128,4,6.5,1080.0,5000,69.5
+samsung,Samsung Galaxy Z Fold4,512,12,7.6,8.0,4400,848.0
+samsung,Samsung Galaxy Z Fold4,1000,12,7.6,8.0,4400,629.77
+samsung,Samsung Galaxy Z Fold4,512,12,7.6,8.0,4400,1599.99
+samsung,Samsung Galaxy Z Fold4,1000,12,7.6,8.0,4400,1719.99
+samsung,Samsung Galaxy Z Fold4,512,12,7.6,8.0,4400,1799.99
+samsung,Samsung Galaxy Z Fold4,1000,12,7.6,8.0,4400,1919.99
+samsung,Samsung Galaxy Z Fold3 5G,512,12,7.6,4.0,4400,399.95
+samsung,Samsung Galaxy Z Fold3 5G,512,12,7.6,4.0,4400,1799.99
+samsung,Samsung Galaxy A52s 5G,128,6,6.5,4.0,4500,399.99
+samsung,Samsung Galaxy A04s,32,4,6.5,1080.0,5000,119.99
+samsung,Samsung Galaxy A15,128,6,6.5,1080.0,5000,128.99
+samsung,Samsung Galaxy A15,128,8,6.5,1080.0,5000,134.99
+samsung,Samsung Galaxy S24 Ultra,512,12,6.8,8.0,5000,729.95
+samsung,Samsung Galaxy S24 Ultra,1000,12,6.8,8.0,5000,898.94
+samsung,Samsung Galaxy S24 Ultra,512,12,6.8,8.0,5000,1049.99
+samsung,Samsung Galaxy S24 Ultra,1000,12,6.8,8.0,5000,1219.99
+samsung,Samsung Galaxy S24 Ultra,512,12,6.8,8.0,5000,1219.99
+samsung,Samsung Galaxy S24+,512,12,6.7,8.0,4900,569.95
+samsung,Samsung Galaxy S24+,512,12,6.7,8.0,4900,999.99
+samsung,Samsung Galaxy A35,128,8,6.6,4.0,5000,249.99
+samsung,Samsung Galaxy A35,256,8,6.6,4.0,5000,248.87
+samsung,Samsung Galaxy A35,128,8,6.6,4.0,5000,399.99
+samsung,Samsung Galaxy A55,256,8,6.6,4.0,5000,299.99
+samsung,Samsung Galaxy A55,256,12,6.6,4.0,5000,311.5
+samsung,Samsung Galaxy S24,256,8,6.2,8.0,4000,469.98
+samsung,Samsung Galaxy S24,512,8,6.2,8.0,4000,614.5
+samsung,Samsung Galaxy S24,256,8,6.2,8.0,4000,719.99
+samsung,Samsung Galaxy S24,512,8,6.2,8.0,4000,779.99
+samsung,Samsung Galaxy S24,256,8,6.2,8.0,4000,859.99
+samsung,Samsung Galaxy Z Flip6,512,12,6.7,4.0,4000,1099.99
+samsung,Samsung Galaxy Z Flip6,512,12,6.7,4.0,4000,1099.99
+samsung,Samsung Galaxy Z Fold6,512,12,7.6,8.0,4400,1899.99
+samsung,Samsung Galaxy Z Fold6,1000,12,7.6,8.0,4400,1899.99
+samsung,Samsung Galaxy Z Fold6,512,12,7.6,8.0,4400,1899.99
+samsung,Samsung Galaxy Z Fold6,1000,12,7.6,8.0,4400,2019.99
+samsung,Samsung Galaxy A06,128,6,6.7,1080.0,5000,125.0
+samsung,Samsung Galaxy S24 FE,256,8,6.7,8.0,4700,649.99
+samsung,Samsung Galaxy S24 FE,512,8,6.7,8.0,4700,709.99
+samsung,Samsung Galaxy S24 FE,256,8,6.7,8.0,4700,649.99
+samsung,Samsung Galaxy S24 FE,512,8,6.7,8.0,4700,709.99
+samsung,Samsung Galaxy A25,256,8,6.5,4.0,5000,159.95
+samsung,Samsung Galaxy A25,256,8,6.5,4.0,5000,299.99
+samsung,Samsung Galaxy A15 5G,128,6,6.5,1080.0,5000,199.99
+samsung,Samsung Galaxy A15 5G,128,8,6.5,1080.0,5000,139.0
+samsung,Samsung Galaxy A15 5G,256,8,6.5,1080.0,5000,132.0
+samsung,Samsung Galaxy A14,128,4,6.6,1080.0,5000,129.99
+samsung,Samsung Galaxy S23,256,8,6.1,8.0,3900,354.9
+samsung,Samsung Galaxy S23,512,8,6.1,8.0,3900,473.5
+samsung,Samsung Galaxy S23,256,8,6.1,8.0,3900,759.99
+samsung,Samsung Galaxy S23,256,8,6.1,8.0,3900,699.99
+samsung,Samsung Galaxy S23,512,8,6.1,8.0,3900,859.99
+samsung,Samsung Galaxy A14 5G,128,4,6.6,1080.0,5000,59.95
+samsung,Samsung Galaxy A14 5G,128,6,6.6,1080.0,5000,125.0
+samsung,Samsung Galaxy A14 5G,128,4,6.6,1080.0,5000,199.99
+samsung,Samsung Galaxy A14 5G,128,4,6.6,1080.0,5000,199.99
+samsung,Samsung Galaxy S23+,512,8,6.6,8.0,4700,469.66
+samsung,Samsung Galaxy S23+,512,8,6.6,8.0,4700,999.99
+samsung,Samsung Galaxy S23+,512,8,6.6,8.0,4700,999.99
+samsung,Samsung Galaxy A34,128,8,6.6,4.0,5000,245.0
+samsung,Samsung Galaxy S23 Ultra,256,12,6.8,8.0,5000,635.5
+samsung,Samsung Galaxy S23 Ultra,512,12,6.8,8.0,5000,669.99
+samsung,Samsung Galaxy S23 Ultra,1000,12,6.8,8.0,5000,692.0
+samsung,Samsung Galaxy S23 Ultra,256,12,6.8,8.0,5000,759.99
+samsung,Samsung Galaxy A54,128,8,6.4,4.0,5000,178.0
+samsung,Samsung Galaxy A54,256,8,6.4,4.0,5000,235.95
+samsung,Samsung Galaxy A24 4G,128,6,6.5,1080.0,5000,187.49
+samsung,Samsung Galaxy Z Fold5,512,12,7.6,8.0,4400,1375.0
+samsung,Samsung Galaxy Z Fold5,1000,12,7.6,8.0,4400,880.0
+samsung,Samsung Galaxy Z Fold5,512,12,7.6,8.0,4400,1799.99
+samsung,Samsung Galaxy Z Fold5,1000,12,7.6,8.0,4400,1919.99
+samsung,Samsung Galaxy Z Fold5,512,12,7.6,8.0,4400,1799.99
+samsung,Samsung Galaxy Z Flip5,512,8,6.7,4.0,3700,414.99
+samsung,Samsung Galaxy Z Flip5,512,8,6.7,4.0,3700,999.99
+samsung,Samsung Galaxy Z Flip5,512,8,6.7,4.0,3700,999.99
+samsung,Samsung Galaxy A05,128,4,6.7,1080.0,5000,89.99
+samsung,Samsung Galaxy A05,128,6,6.7,1080.0,5000,89.99
+samsung,Samsung Galaxy A05s,128,4,6.7,1080.0,5000,99.99
+samsung,Samsung Galaxy Tab S9 FE,256,8,10.9,4.0,8000,349.99
+samsung,Samsung Galaxy S23 FE,256,8,6.4,8.0,4500,269.99
+samsung,Samsung Galaxy S23 FE,256,8,6.4,8.0,4500,599.99
+samsung,Samsung Galaxy S23 FE,256,8,6.4,8.0,4500,499.99
+samsung,Samsung Galaxy A04e,32,4,6.5,1080.0,5000,83.0
+samsung,Samsung Galaxy A32 5G,128,4,6.5,4.0,5000,64.57
+samsung,Samsung Galaxy A32 5G,128,6,6.5,4.0,5000,365.99
+samsung,Samsung Galaxy A02,32,3,6.5,1080.0,5000,78.0
+samsung,Samsung Galaxy A02,32,4,6.5,1080.0,5000,119.99
+samsung,Samsung Galaxy A02,32,3,6.5,1080.0,5000,149.99
+samsung,Samsung Galaxy S21 5G,256,8,6.2,8.0,4000,187.15
+samsung,Samsung Galaxy S21+ 5G,256,8,6.7,8.0,4800,203.07
+samsung,Samsung Galaxy S21+ 5G,256,8,6.7,8.0,4800,679.0
+samsung,Samsung Galaxy S21+ 5G,256,8,6.7,8.0,4800,899.99
+samsung,Samsung Galaxy S21 Ultra 5G,256,12,6.8,8.0,5000,255.45
+samsung,Samsung Galaxy S21 Ultra 5G,512,12,6.8,8.0,5000,342.64
+samsung,Samsung Galaxy S21 Ultra 5G,512,16,6.8,8.0,5000,1499.0
+samsung,Samsung Galaxy A12,32,3,6.5,1080.0,5000,73.7
+samsung,Samsung Galaxy A12,64,4,6.5,1080.0,5000,144.0
+samsung,Samsung Galaxy A12,128,3,6.5,1080.0,5000,180.0
+samsung,Samsung Galaxy A02s,32,2,6.5,1080.0,5000,66.43
+samsung,Samsung Galaxy S20 Ultra 5G,256,12,6.9,8.0,5000,231.74
+samsung,Samsung Galaxy A51 5G,128,8,6.5,4.0,4500,106.83
+samsung,Samsung Galaxy A71 5G,128,8,6.7,4.0,4500,151.08
+samsung,Samsung Galaxy Note20 5G,256,8,6.7,8.0,4300,224.95
+samsung,Samsung Galaxy Note20 Ultra 5G,256,8,6.9,8.0,4500,314.18
+samsung,Samsung Galaxy Note20 Ultra 5G,256,12,6.9,8.0,4500,650.0
+samsung,Samsung Galaxy Note20 Ultra 5G,512,12,6.9,8.0,4500,779.46
+samsung,Samsung Galaxy Z Flip3 5G,256,8,6.7,4.0,3300,244.95
+samsung,Samsung Galaxy Z Flip3 5G,256,8,6.7,4.0,3300,999.99
+samsung,Samsung Galaxy Tab A7 Lite,32,3,8.7,1080.0,5100,124.99
+samsung,Samsung Galaxy S20+ 5G,128,12,6.7,8.0,4500,196.0
+samsung,Samsung Galaxy S20+ 5G,256,12,6.7,8.0,4500,270.0
+samsung,Samsung Galaxy S20+ 5G,512,12,6.7,8.0,4500,409.98
+samsung,Samsung Galaxy A52,128,6,6.5,4.0,4500,140.83
+samsung,Samsung Galaxy A52,128,8,6.5,4.0,4500,311.78
+samsung,Samsung Galaxy A52 5G,128,8,6.5,4.0,4500,139.7
+samsung,Samsung Galaxy A32,128,4,6.4,1080.0,5000,249.99
+samsung,Samsung Galaxy A32,128,6,6.4,1080.0,5000,160.24
+samsung,Samsung Galaxy A72,128,8,6.7,4.0,5000,789.99
+samsung,Samsung Galaxy A72,256,6,6.7,4.0,5000,789.99
+samsung,Samsung Galaxy M12,32,4,6.5,1080.0,5000,192.5
+samsung,Samsung Galaxy A12 Nacho,32,4,6.5,1080.0,5000,130.0
+sony,Sony Xperia 1 VI,512,12,6.5,4.0,5000,975.0
+sony,Sony Xperia 5 V,256,8,6.1,4.0,5000,749.0
+sony,Sony Xperia 1 IV,512,12,6.5,4.0,5000,639.95
+sony,Sony Xperia 1 IV,512,12,6.5,4.0,5000,1399.99
+sony,Sony Xperia 1 V,512,12,6.5,4.0,5000,839.0
+sony,Sony Xperia 10 V,128,8,6.1,1080.0,5000,329.99
+sony,Sony Xperia 5 IV,256,8,6.1,4.0,5000,629.95
+sony,Sony Xperia 10 III,256,6,6.0,4.0,4500,689.0
+sony,Sony Xperia 5 III,256,8,6.1,4.0,4500,550.0
+sony,Sony Xperia 1 III,512,12,6.5,4.0,4500,904.0
+vivo,vivo X100 Pro,256,16,6.78,8.0,5400,888.88
+xiaomi,Xiaomi Redmi 12C,64,3,6.71,1080.0,5000,81.76
+xiaomi,Xiaomi Redmi 12C,64,4,6.71,1080.0,5000,122.53
+xiaomi,Xiaomi Redmi 12C,128,4,6.71,1080.0,5000,144.99
+xiaomi,Xiaomi Redmi 13C 5G,128,6,6.74,1080.0,5000,209.99
+xiaomi,Xiaomi 12 Pro,256,8,6.73,8.0,4600,419.41
+xiaomi,Xiaomi Redmi Note 12 Pro,128,8,6.67,4.0,5000,220.0
+xiaomi,Xiaomi Redmi Note 12 Pro,256,8,6.67,4.0,5000,284.45
+xiaomi,Xiaomi Redmi Note 12 Pro,256,12,6.67,4.0,5000,209.5
+xiaomi,Xiaomi Poco M5,128,4,6.58,1080.0,5000,169.99
+xiaomi,Xiaomi Poco M5,128,6,6.58,1080.0,5000,164.99
+xiaomi,Xiaomi Poco M5s,128,4,6.43,4.0,5000,159.99
+xiaomi,Xiaomi Poco M5s,128,6,6.43,4.0,5000,179.99
+xiaomi,Xiaomi Poco M4 5G,128,6,6.58,1080.0,5000,160.0
+xiaomi,Xiaomi Redmi Note 12 4G,128,4,6.67,1080.0,5000,154.5
+xiaomi,Xiaomi Redmi Note 12 4G,128,6,6.67,1080.0,5000,189.9
+xiaomi,Xiaomi Redmi A2,64,2,6.52,1080.0,5000,59.5
+xiaomi,Xiaomi 13 Lite,256,8,6.55,4.0,4500,340.0
+xiaomi,Xiaomi Poco X5 Pro,256,8,6.67,4.0,5000,229.0
+xiaomi,Xiaomi Poco X5,256,8,6.67,1080.0,5000,213.99
+xiaomi,Xiaomi Redmi Note 12,128,6,6.67,1080.0,5000,159.99
+xiaomi,Xiaomi Redmi Note 12,256,8,6.67,1080.0,5000,170.0
+xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,6.67,4.0,5000,242.5
+xiaomi,Xiaomi Redmi Note 12S,128,6,6.43,1080.0,5000,149.5
+xiaomi,Xiaomi Poco X4 GT,256,8,6.6,4.0,5080,199.99
+xiaomi,Xiaomi Redmi Note 11S 5G,128,4,6.6,1080.0,5000,224.99
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,6.67,4.0,4500,199.0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,256,8,6.67,4.0,4500,229.0
+xiaomi,Xiaomi Redmi 10 5G,128,4,6.58,1080.0,5000,138.73
+xiaomi,Xiaomi Redmi 10 5G,128,6,6.58,1080.0,5000,152.41
+xiaomi,Xiaomi 12,256,8,6.28,8.0,4500,322.0
+xiaomi,Xiaomi 12,256,12,6.28,8.0,4500,374.3
+xiaomi,Xiaomi Redmi 10C,64,4,6.71,1080.0,5000,84.99
+xiaomi,Xiaomi Redmi 10C,128,4,6.71,1080.0,5000,129.99
+xiaomi,Xiaomi Poco X4 Pro 5G,128,6,6.67,1080.0,5000,199.99
+xiaomi,Xiaomi Poco X4 Pro 5G,128,8,6.67,1080.0,5000,230.0
+xiaomi,Xiaomi Poco C40,64,4,6.71,1080.0,6000,104.0
+xiaomi,Xiaomi Poco F6 Pro,512,12,6.67,8.0,5000,469.99
+xiaomi,Xiaomi Poco F6 Pro,1000,16,6.67,8.0,5000,481.49
+xiaomi,Xiaomi Poco F6,512,12,6.67,4.0,5000,364.89
+xiaomi,Xiaomi Redmi A3x,128,4,6.71,1080.0,5000,91.0
+xiaomi,Xiaomi 14,512,12,6.36,8.0,4610,849.5
+xiaomi,Xiaomi 14 Ultra,512,16,6.73,8.0,5000,1075.0
+xiaomi,Xiaomi Redmi A3,128,4,6.71,1080.0,5000,84.5
+xiaomi,Xiaomi Redmi A3,128,6,6.71,1080.0,5000,94.0
+xiaomi,Xiaomi Redmi 13,256,8,6.79,1080.0,5030,159.0
+xiaomi,Xiaomi Poco M6 4G,256,8,6.79,1080.0,5030,167.25
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,6.67,1080.0,5000,213.0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,6.67,1080.0,5000,262.5
+xiaomi,Xiaomi Poco F5 Pro,256,12,6.67,8.0,5160,490.04
+xiaomi,Xiaomi Poco F5 Pro,512,12,6.67,8.0,5160,459.99
+xiaomi,Xiaomi Redmi 12,128,8,6.79,1080.0,5000,139.99
+xiaomi,Xiaomi Redmi 12,256,8,6.79,1080.0,5000,155.25
+xiaomi,Xiaomi 13 Ultra,512,12,6.73,8.0,5000,1349.0
+xiaomi,Xiaomi 13 Ultra,512,16,6.73,8.0,5000,1178.0
+xiaomi,Xiaomi Poco F5,256,12,6.67,4.0,5000,300.0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,6.67,4.0,5000,269.99
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,256,8,6.67,4.0,5000,144.99
+xiaomi,Xiaomi 13T Pro,512,12,6.67,8.0,5000,539.99
+xiaomi,Xiaomi 13T Pro,1000,16,6.67,8.0,5000,1199.0
+xiaomi,Xiaomi 13T,256,12,6.67,4.0,5000,529.0
+xiaomi,Xiaomi Redmi Note 13 Pro,512,12,6.67,4.0,5100,275.7
+xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,6.67,4.0,5000,329.05
+xiaomi,Xiaomi Redmi Note 13 4G,128,8,6.67,1080.0,5000,133.7
+xiaomi,Xiaomi Redmi Note 13 4G,256,8,6.67,1080.0,5000,169.99
+xiaomi,Xiaomi Poco X6,256,12,6.67,4.0,5100,242.99
+xiaomi,Xiaomi Poco X6,512,12,6.67,4.0,5100,252.99
+xiaomi,Xiaomi Redmi Note 13,256,8,6.67,1080.0,5000,187.5
+xiaomi,Xiaomi Redmi Note 13,256,12,6.67,1080.0,5000,212.5
+xiaomi,Xiaomi Poco X6 Pro,256,12,6.67,4.0,5000,282.5
+xiaomi,Xiaomi Poco X6 Pro,512,12,6.67,4.0,5000,321.99
+xiaomi,Xiaomi Poco M6 Pro,512,12,6.67,1080.0,5000,187.5
+xiaomi,Xiaomi Redmi 13C,128,6,6.74,1080.0,5000,119.0
+xiaomi,Xiaomi Redmi 13C,256,8,6.74,1080.0,5000,132.27
+xiaomi,Xiaomi Poco C65,256,8,6.74,1080.0,5000,137.16
+xiaomi,Xiaomi Redmi 10 2022,128,4,6.5,1080.0,5000,139.99
+xiaomi,Xiaomi Redmi 9C,32,3,6.53,1080.0,5000,119.99
+xiaomi,Xiaomi Redmi 9C,64,3,6.53,1080.0,5000,118.79
+xiaomi,Xiaomi Redmi 9C,64,4,6.53,1080.0,5000,85.99
+xiaomi,Xiaomi Redmi 9,64,4,6.53,1080.0,5020,146.65
+xiaomi,Xiaomi Redmi 9,128,4,6.53,1080.0,5020,139.99
+xiaomi,Xiaomi Poco M3,64,6,6.53,1080.0,6000,160.0
+xiaomi,Xiaomi Poco M3,128,4,6.53,1080.0,6000,152.99
+xiaomi,Xiaomi Poco F3,128,8,6.67,4.0,4520,179.99
+xiaomi,Xiaomi Mi 11 Lite,128,6,6.55,4.0,4250,299.99
+xiaomi,Xiaomi Mi 11 Lite 5G,128,6,6.55,4.0,4250,249.99
+xiaomi,Xiaomi Poco X3 Pro,128,8,6.67,4.0,5160,290.0
+xiaomi,Xiaomi Redmi Note 10S,128,4,6.43,4.0,5000,161.0
+xiaomi,Xiaomi Redmi Note 11 Pro,128,6,6.67,1080.0,5000,189.99
+xiaomi,Xiaomi Redmi Note 11 Pro,128,8,6.67,1080.0,5000,228.0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,4,6.67,1080.0,5000,189.99
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,6.67,1080.0,5000,160.0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,6.67,1080.0,5000,170.0
+xiaomi,Xiaomi Redmi Note 11,64,6,6.43,1080.0,5000,129.99
+xiaomi,Xiaomi Redmi Note 11S,128,6,6.43,1080.0,5000,159.99
+xiaomi,Xiaomi Redmi Note 11S,128,8,6.43,1080.0,5000,139.99
+xiaomi,Xiaomi Redmi Note 11 4G,128,6,6.5,1080.0,5000,204.99
+zte,ZTE nubia Red Magic 9S Pro,512,16,6.8,8.0,6500,749.0
+apple,Apple iPhone 16 Pro,256,8,6.3,4.0,3582,1424.52
+apple,Apple iPhone 16 Pro,512,8,6.3,4.0,3582,1683.76
+apple,Apple iPhone 12 mini,128,4,5.4,4.0,2227,252.11
+apple,Apple iPhone 12 mini,256,4,5.4,4.0,2227,293.59
+apple,Apple iPhone 13 mini,256,4,5.4,4.0,2438,382.38
+apple,Apple iPhone 13 mini,512,4,5.4,4.0,2438,436.81
+apple,Apple iPhone XR,128,3,6.1,4.0,2942,185.32
+apple,Apple iPhone XR,256,3,6.1,4.0,2942,174.99
+apple,Apple iPhone XS Max,256,4,6.5,4.0,3174,199.61
+apple,Apple iPhone XS Max,512,4,6.5,4.0,3174,256.14
+apple,Apple iPhone 12 Pro Max,256,6,6.7,4.0,3687,492.52
+apple,Apple iPhone 12 Pro Max,512,6,6.7,4.0,3687,546.85
+apple,Apple iPhone XS,256,4,5.8,4.0,2658,190.87
+apple,Apple iPhone XS,512,4,5.8,4.0,2658,269.6
+apple,Apple iPhone 11,128,4,6.1,4.0,3110,249.18
+apple,Apple iPhone 11,256,4,6.1,4.0,3110,246.28
+apple,Apple iPhone 11 Pro,256,4,5.8,4.0,3046,269.99
+apple,Apple iPhone 11 Pro,512,4,5.8,4.0,3046,319.64
+apple,Apple iPhone 11 Pro Max,256,4,6.5,4.0,3969,329.23
+apple,Apple iPhone 11 Pro Max,512,4,6.5,4.0,3969,362.87
+apple,Apple iPhone SE (2020),128,3,4.7,4.0,1821,121.84
+apple,Apple iPhone SE (2020),256,3,4.7,4.0,1821,151.33
+apple,Apple iPhone 12,128,4,6.1,4.0,2815,316.27
+apple,Apple iPhone 12,256,4,6.1,4.0,2815,343.49
+apple,Apple iPhone 12 Pro,256,6,6.1,4.0,2815,419.76
+apple,Apple iPhone 12 Pro,512,6,6.1,4.0,2815,468.89
+apple,Apple iPhone 14,256,6,6.1,4.0,3279,582.75
+apple,Apple iPhone 14,512,6,6.1,4.0,3279,614.39
+apple,Apple iPhone 14 Plus,256,6,6.7,4.0,4323,505.52
+apple,Apple iPhone 14 Plus,512,6,6.7,4.0,4323,657.82
+apple,Apple iPhone 14 Pro,256,6,6.1,4.0,3200,712.17
+apple,Apple iPhone 14 Pro,512,6,6.1,4.0,3200,802.35
+apple,Apple iPhone 14 Pro,1000,6,6.1,4.0,3200,890.71
+apple,Apple iPhone 14 Pro Max,256,6,6.7,4.0,4323,810.09
+apple,Apple iPhone 14 Pro Max,512,6,6.7,4.0,4323,881.07
+apple,Apple iPhone 14 Pro Max,1000,6,6.7,4.0,4323,998.07
+apple,Apple iPhone SE (2022),128,4,4.7,4.0,2018,230.72
+apple,Apple iPhone SE (2022),256,4,4.7,4.0,2018,338.31
+apple,Apple iPhone 15,256,6,6.1,4.0,3349,740.78
+apple,Apple iPhone 15,512,6,6.1,4.0,3349,843.18
+apple,Apple iPhone 15 Pro Max,512,8,6.7,4.0,4441,1123.81
+apple,Apple iPhone 15 Pro Max,1000,8,6.7,4.0,4441,1204.17
+apple,Apple iPhone 15 Plus,256,6,6.7,4.0,4383,824.33
+apple,Apple iPhone 15 Plus,512,6,6.7,4.0,4383,842.52
+apple,Apple iPhone 15 Pro,256,8,6.1,4.0,3274,931.97
+apple,Apple iPhone 15 Pro,512,8,6.1,4.0,3274,1022.05
+apple,Apple iPhone 15 Pro,1000,8,6.1,4.0,3274,1246.85
+apple,Apple iPhone 16,256,8,6.1,4.0,3561,1035.66
+apple,Apple iPhone 16,512,8,6.1,4.0,3561,1165.28
+apple,Apple iPhone 16 Plus,256,8,6.7,4.0,4674,1165.28
+apple,Apple iPhone 16 Plus,512,8,6.7,4.0,4674,1294.9
+apple,Apple iPhone 13 Pro Max,256,6,6.7,4.0,4352,640.32
+apple,Apple iPhone 13 Pro Max,512,6,6.7,4.0,4352,659.12
+apple,Apple iPhone 13 Pro Max,1000,6,6.7,4.0,4352,803.58
+apple,Apple iPhone 13,256,4,6.1,4.0,3240,451.08
+apple,Apple iPhone 13,512,4,6.1,4.0,3240,484.78
+apple,Apple iPhone 13 Pro,256,6,6.1,4.0,3095,550.17
+apple,Apple iPhone 13 Pro,512,6,6.1,4.0,3095,602.41
+apple,Apple iPhone 13 Pro,1000,6,6.1,4.0,3095,681.08
+asus,Asus ROG Phone 5,128,12,6.78,8.0,6000,1165.28
+asus,Asus Zenfone 8,128,8,5.9,8.0,4000,716.07
+asus,Asus Zenfone 9,256,8,5.9,8.0,4300,1165.28
+asus,Asus Zenfone 9,256,16,5.9,8.0,4300,822.85
+asus,Asus ROG Phone 7,512,16,6.78,8.0,6000,1102.03
+asus,Asus Zenfone 10,256,8,5.92,8.0,4300,857.79
+asus,Asus Zenfone 10,256,16,5.92,8.0,4300,842.52
+asus,Asus Zenfone 10,512,16,5.92,8.0,4300,933.25
+asus,Asus ROG Phone 8,256,16,6.78,8.0,5500,1189.78
+asus,Asus ROG Phone 8 Pro,1000,24,6.78,8.0,5500,891.14
+asus,Asus Zenfone 11 Ultra,512,16,6.78,8.0,5500,1060.28
+asus,Asus ROG Phone 6,128,12,6.78,8.0,6000,1096.59
+blackview,Blackview A96,256,12,6.5,1440.0,4380,276.61
+google,Google Pixel 8,256,8,6.2,4.0,4575,452.37
+google,Google Pixel 4 XL,128,6,6.3,4.0,3700,197.66
+google,Google Pixel 4,128,6,5.7,4.0,2800,125.73
+google,Google Pixel 6,256,8,6.4,4.0,4614,207.38
+google,Google Pixel 9 Pro Fold,512,16,8.0,4.0,4650,2267.05
+google,Google Pixel 9,256,12,6.3,4.0,4700,1035.66
+google,Google Pixel 9 Pro,256,16,6.3,8.0,4700,1294.9
+google,Google Pixel 9 Pro,512,16,6.3,8.0,4700,1424.52
+google,Google Pixel 9 Pro,1000,16,6.3,8.0,4700,1580.07
+google,Google Pixel 9 Pro XL,256,16,6.8,8.0,5060,1424.52
+google,Google Pixel 9 Pro XL,512,16,6.8,8.0,5060,1540.72
+google,Google Pixel 9 Pro XL,1000,16,6.8,8.0,5060,1709.69
+google,Google Pixel 8 Pro,256,12,6.7,4.0,5050,580.7
+google,Google Pixel 8 Pro,512,12,6.7,4.0,5050,750.5
+google,Google Pixel 8a,256,8,6.1,4.0,4492,395.34
+google,Google Pixel Fold,512,12,7.6,4.0,4821,946.21
+google,Google Pixel 6 Pro,256,12,6.7,4.0,5003,219.06
+google,Google Pixel 6 Pro,512,12,6.7,4.0,5003,335.7
+google,Google Pixel 7 Pro,256,12,6.7,4.0,5000,358.83
+google,Google Pixel 7 Pro,512,12,6.7,4.0,5000,421.2
+google,Google Pixel 7,256,8,6.3,4.0,4355,283.83
+honor,Honor 70,256,8,6.67,4.0,4800,355.56
+honor,Honor Magic5 Lite,256,8,6.67,1080.0,5100,302.31
+honor,Honor X7,128,6,6.74,1080.0,5000,127.66
+honor,Honor Magic5 Pro,256,12,6.81,4.0,5100,777.07
+honor,Honor 90,512,12,6.7,4.0,5000,335.72
+honor,Honor X7a,128,6,6.75,1080.0,6000,181.46
+honor,Honor X7b,256,6,6.8,1080.0,5330,167.21
+honor,Honor 200,256,12,6.7,4.0,5200,572.6
+honor,Honor Magic V3,512,12,7.92,4.0,5150,2189.28
+honor,Honor Magic V2,512,16,7.92,4.0,5000,1292.78
+honor,Honor Magic4 Pro,512,12,6.81,4.0,4600,440.7
+huawei,Huawei P30,128,6,6.1,4.0,3650,187.29
+huawei,Huawei nova 9,256,8,6.57,4.0,4300,609.21
+huawei,Huawei nova 8i,128,8,6.67,1080.0,4300,255.56
+huawei,Huawei Mate 50 Pro,512,8,6.74,4.0,4700,745.32
+huawei,Huawei P50 Pro,256,8,6.6,4.0,4360,581.99
+huawei,Huawei Pura 70 Pro,512,12,6.8,4.0,5050,1365.27
+motorola,Motorola Moto G23,128,8,6.5,1080.0,5000,150.35
+motorola,Motorola Moto G53,128,4,6.5,1080.0,5000,141.29
+motorola,Motorola Moto G53,128,6,6.5,1080.0,5000,167.21
+motorola,Motorola Edge 20 Pro,128,8,6.7,8.0,4500,531.44
+motorola,Motorola Edge 20,256,8,6.7,4.0,4000,199.61
+motorola,Motorola Moto G30,128,4,6.5,1080.0,5000,136.1
+motorola,Motorola Moto G71 5G,128,6,6.4,1080.0,5000,517.18
+motorola,Motorola Moto G31,128,4,6.4,1080.0,5000,116.65
+motorola,Motorola ThinkPhone,256,8,6.6,8.0,5000,815.18
+motorola,Motorola Moto G72,128,8,6.6,1080.0,5000,194.42
+motorola,Motorola Moto G72,256,8,6.6,1080.0,5000,426.45
+motorola,Motorola Edge 30 Ultra,256,8,6.67,8.0,4610,1160.1
+motorola,Motorola Edge 30 Fusion,256,8,6.55,8.0,4400,374.6
+motorola,Motorola Moto G13,128,4,6.5,1080.0,5000,145.16
+motorola,Motorola Moto G42,128,4,6.4,1080.0,5000,304.1
+motorola,Motorola Edge 30 Neo,128,8,6.28,1080.0,4020,464.69
+motorola,Motorola Moto G22,128,4,6.5,1080.0,5000,88.52
+motorola,Motorola Moto G32,128,4,6.5,1080.0,5000,116.59
+motorola,Motorola Moto G32,128,6,6.5,1080.0,5000,168.38
+motorola,Motorola Moto G32,256,8,6.5,1080.0,5000,116.65
+motorola,Motorola Moto G73,256,8,6.5,1080.0,5000,192.81
+motorola,Motorola Edge 40 Neo,256,12,6.55,4.0,5000,316.77
+motorola,Motorola Moto G14,256,8,6.5,1080.0,5000,88.78
+motorola,Motorola Moto G54,256,8,6.5,1080.0,5000,180.17
+motorola,Motorola Razr 40 Ultra,256,12,6.9,4.0,3800,627.36
+motorola,Motorola Razr 40,256,8,6.9,4.0,4200,549.59
+motorola,Motorola Edge 40,256,8,6.55,4.0,4400,329.13
+motorola,Motorola Edge 40 Pro,512,12,6.67,8.0,4600,1676.84
+motorola,Motorola Moto G55,256,8,6.49,1080.0,5000,259.23
+motorola,Motorola Edge 50 Neo,512,12,6.4,4.0,4310,518.47
+motorola,Motorola Razr 50 Ultra,256,12,6.9,4.0,4000,1042.38
+motorola,Motorola Razr 50,512,12,6.9,4.0,4200,714.75
+motorola,Motorola Moto G85,256,12,6.67,1080.0,5000,302.7
+motorola,Motorola Edge 50 Ultra,512,16,6.7,4.0,4500,1014.5
+motorola,Motorola Edge 50 Fusion,256,8,6.7,4.0,5000,282.77
+motorola,Motorola Edge 50 Pro,256,12,6.7,4.0,4500,635.13
+motorola,Motorola Moto G04s,128,4,6.56,1080.0,5000,175.51
+nokia,Nokia X20,128,8,6.67,1080.0,4470,257.94
+nokia,Nokia G42,128,6,6.56,1080.0,5000,168.48
+nokia,Nokia C32,64,4,6.5,1080.0,5000,98.51
+nokia,Nokia C32,128,4,6.5,1080.0,5000,96.55
+nokia,Nokia X30,256,8,6.43,1080.0,4200,229.43
+nokia,Nokia G60,128,4,6.58,1080.0,4500,154.25
+nokia,Nokia G60,128,6,6.58,1080.0,4500,165.77
+nokia,Nokia G22,128,4,6.5,1080.0,5050,110.14
+nokia,Nokia XR20,128,6,6.67,1080.0,4630,265.71
+nokia,Nokia G10,32,4,6.52,1080.0,5050,73.88
+nokia,Nokia G11,64,4,6.5,1080.0,5050,85.81
+nokia,Nokia C21 Plus,32,3,6.52,1080.0,5050,102.4
+nokia,Nokia G21,64,4,6.5,1080.0,5050,90.73
+nothing,Nothing CMF Phone 1,128,8,6.67,4.0,5000,270.91
+nothing,Nothing Phone (2a) Plus,256,12,6.7,4.0,5000,515.87
+nothing,Nothing Phone (2a),256,12,6.7,4.0,5000,385.35
+nothing,Nothing Phone (1),256,8,6.55,4.0,4500,251.61
+nothing,Nothing Phone (1),256,12,6.55,4.0,4500,374.6
+nothing,Nothing Phone (2),256,12,6.7,4.0,4700,741.43
+nothing,Nothing Phone (2),512,12,6.7,4.0,4700,645.82
+oneplus,OnePlus Nord 4,512,16,6.74,4.0,5500,556.07
+oneplus,OnePlus Nord 2T,256,12,6.43,4.0,4500,278.67
+oneplus,OnePlus 10 Pro,256,8,6.7,8.0,5000,435.56
+oneplus,OnePlus 10 Pro,256,12,6.7,8.0,5000,863.11
+oneplus,OnePlus Nord CE 2 5G,128,8,6.43,4.0,4500,193.13
+oneplus,OnePlus Nord CE 2 Lite 5G,128,8,6.59,1080.0,5000,193.13
+oneplus,OnePlus 7T,256,8,6.55,4.0,3800,159.43
+oneplus,OnePlus Nord 2 5G,128,8,6.43,4.0,4500,241.09
+oneplus,OnePlus Nord 2 5G,256,12,6.43,4.0,4500,480.2
+oneplus,OnePlus Nord CE 5G,128,8,6.43,4.0,4500,362.61
+oneplus,OnePlus 8T,256,12,6.55,4.0,4500,311.02
+oneplus,OnePlus 12R,256,16,6.78,4.0,5500,644.21
+oneplus,OnePlus 12,512,16,6.82,8.0,5400,970.85
+oneplus,OnePlus Nord,128,8,6.44,4.0,4115,159.43
+oneplus,OnePlus Nord,256,12,6.44,4.0,4115,254.04
+oneplus,OnePlus Nord 3,256,16,6.74,4.0,5000,543.11
+oneplus,OnePlus 10T,256,12,6.7,4.0,4800,269.91
+oneplus,OnePlus 10T,256,16,6.7,4.0,4800,734.76
+oneplus,OnePlus 11,256,12,6.7,8.0,5000,590.65
+oneplus,OnePlus 11,256,16,6.7,8.0,5000,744.47
+oneplus,OnePlus 8 Pro,256,12,6.78,4.0,4510,272.2
+oneplus,OnePlus Nord CE 3 Lite,256,8,6.72,1080.0,5000,219.06
+oneplus,OnePlus 9,256,12,6.55,8.0,4500,375.83
+oneplus,OnePlus 9 Pro,256,8,6.7,8.0,4500,291.63
+oneplus,OnePlus 9 Pro,256,12,6.7,8.0,4500,414.78
+oppo,Oppo A16,64,4,6.52,1080.0,5000,129.61
+oppo,Oppo A16,256,4,6.52,1080.0,5000,129.61
+oppo,Oppo A55,128,4,6.51,1080.0,5000,142.71
+oppo,Oppo A54s,128,8,6.52,1080.0,5000,155.4
+oppo,Oppo A54 5G,128,4,6.5,1080.0,5000,129.62
+oppo,Oppo Reno12 Pro,512,12,6.7,4.0,5000,661.05
+oppo,Oppo A57 4G,64,4,6.56,1080.0,5000,110.18
+oppo,Oppo A77,128,6,6.56,1080.0,5000,142.58
+oppo,Oppo Reno8,256,8,6.4,4.0,4500,244.98
+oppo,Oppo Reno8 Pro,256,12,6.7,4.0,4500,402.86
+oppo,Oppo Find X5,256,8,6.55,4.0,4800,167.14
+oppo,Oppo A96,128,8,6.59,1080.0,5000,258.27
+oppo,Oppo Find X5 Pro,256,12,6.7,4.0,5000,291.64
+oppo,Oppo Reno7,256,8,6.43,1080.0,4500,246.27
+oppo,Oppo Find N2 Flip,512,16,6.8,4.0,4300,518.48
+oppo,Oppo Reno11,256,12,6.7,4.0,5000,330.53
+oppo,Oppo Find X3 Pro,256,12,6.7,4.0,4500,282.57
+oppo,Oppo A53,128,4,6.5,1080.0,5000,150.36
+oppo,Oppo Reno10,256,8,6.7,4.0,5000,305.89
+oppo,Oppo Find X3 Neo,256,12,6.55,4.0,4500,208.69
+oppo,Oppo Reno5 5G,256,12,6.43,4.0,4300,348.68
+realme,Realme C67,128,6,6.72,1080.0,5000,153.34
+realme,Realme 9 Pro,128,8,6.6,1080.0,5000,324.59
+realme,Realme 12+,256,8,6.67,4.0,5000,586.83
+realme,Realme C65,128,8,6.67,1080.0,5000,164.28
+realme,Realme 12 Pro+,256,8,6.7,4.0,5000,480.53
+realme,Realme Note 50,128,4,6.74,1080.0,5000,98.56
+realme,8,512,12,6.78,4.0,5500,417.51
+realme,Realme Narzo 50A Prime,128,4,6.6,1080.0,5000,89.09
+realme,Realme C31,64,4,6.5,1080.0,5000,128.57
+realme,Realme 9 Pro+,128,8,6.4,4.0,4500,245.38
+realme,Realme 9i,128,4,6.6,1080.0,5000,314.72
+realme,Realme 9i,128,6,6.6,1080.0,5000,269.61
+realme,Realme C35,64,6,6.6,1080.0,5000,168.49
+realme,Realme GT2 Pro,256,12,6.7,8.0,5000,552.53
+realme,Realme GT Neo2,256,8,6.62,4.0,5000,571.96
+realme,Realme GT 5G,256,12,6.43,4.0,4500,412.37
+realme,Realme 11 Pro,256,8,6.7,4.0,5000,220.41
+realme,Realme C53,256,8,6.74,1080.0,5000,201.38
+samsung,Samsung Galaxy A51,128,4,6.5,4.0,4000,132.15
+samsung,Samsung Galaxy S20 FE 5G,128,8,6.5,4.0,4500,194.42
+samsung,Samsung Galaxy A42 5G,128,6,6.6,4.0,5000,179.51
+samsung,Samsung Galaxy S22 5G,256,8,6.1,8.0,3700,300.45
+samsung,Samsung Galaxy S21 FE 5G,128,8,6.4,4.0,4500,191.84
+samsung,Samsung Galaxy S21 FE 5G,256,8,6.4,4.0,4500,257.94
+samsung,Samsung Galaxy A03,32,4,6.5,1080.0,5000,117.95
+samsung,Samsung Galaxy A03,64,4,6.5,1080.0,5000,129.61
+samsung,Samsung Galaxy S9+,64,6,6.2,4.0,3500,972.14
+samsung,Samsung Galaxy Note10+,512,12,6.8,4.0,4300,412.19
+samsung,Samsung Galaxy A71,128,8,6.7,4.0,4500,162.01
+samsung,Samsung Galaxy S20 5G,128,12,6.2,8.0,4000,239.78
+samsung,Samsung Galaxy S10e,128,8,5.8,4.0,3100,159.43
+samsung,Samsung Galaxy S9,128,4,5.8,4.0,3000,127.66
+samsung,Samsung Galaxy S9,256,4,5.8,4.0,3000,401.81
+samsung,Samsung Galaxy S10,512,8,6.1,4.0,3400,174.99
+samsung,Samsung Galaxy S10+,128,8,6.4,4.0,4100,362.94
+samsung,Samsung Galaxy S10+,512,8,6.4,4.0,4100,387.56
+samsung,Samsung Galaxy M52 5G,128,8,6.7,4.0,5000,281.28
+samsung,Samsung Galaxy A03s,32,3,6.5,1080.0,5000,103.03
+samsung,Samsung Galaxy A03s,32,4,6.5,1080.0,5000,167.2
+samsung,Samsung Galaxy S22+ 5G,256,8,6.6,8.0,4500,278.67
+samsung,Samsung Galaxy A23,64,6,6.6,1080.0,5000,246.27
+samsung,Samsung Galaxy S22 Ultra 5G,256,12,6.8,8.0,5000,414.72
+samsung,Samsung Galaxy S22 Ultra 5G,512,12,6.8,8.0,5000,531.44
+samsung,Samsung Galaxy S22 Ultra 5G,1000,12,6.8,8.0,5000,576.81
+samsung,Samsung Galaxy A13,32,4,6.6,1080.0,5000,180.17
+samsung,Samsung Galaxy A13,64,4,6.6,1080.0,5000,102.33
+samsung,Samsung Galaxy A13,128,4,6.6,1080.0,5000,212.58
+samsung,Samsung Galaxy M33,128,8,6.6,4.0,5000,485.97
+samsung,Samsung Galaxy A53 5G,128,6,6.5,4.0,5000,232.02
+samsung,Samsung Galaxy A53 5G,128,8,6.5,4.0,5000,285.15
+samsung,Samsung Galaxy A33 5G,128,6,6.4,4.0,5000,285.1
+samsung,Samsung Galaxy A13 5G,128,4,6.5,1080.0,5000,149.05
+samsung,Samsung Galaxy M13,128,4,6.6,1080.0,5000,168.49
+samsung,Samsung Galaxy A13 (SM-A137),32,4,6.6,1080.0,5000,216.71
+samsung,Samsung Galaxy A23 5G,64,6,6.6,1080.0,5000,233.3
+samsung,Samsung Galaxy A23 5G,128,4,6.6,1080.0,5000,187.95
+samsung,Samsung Galaxy Z Flip4,256,8,6.7,4.0,3700,300.72
+samsung,Samsung Galaxy Z Flip4,512,8,6.7,4.0,3700,330.53
+samsung,Samsung Galaxy Z Fold4,512,12,7.6,8.0,4400,646.8
+samsung,Samsung Galaxy Z Fold4,1000,12,7.6,8.0,4400,725.87
+samsung,Samsung Galaxy M53,128,8,6.7,4.0,5000,416.66
+samsung,Samsung Galaxy Z Fold3 5G,512,12,7.6,4.0,4400,490.94
+samsung,Samsung Galaxy A52s 5G,128,6,6.5,4.0,4500,167.21
+samsung,Samsung Galaxy A04s,32,4,6.5,1080.0,5000,99.81
+samsung,Samsung Galaxy A04s,64,4,6.5,1080.0,5000,102.32
+samsung,Samsung Galaxy A15,128,6,6.5,1080.0,5000,158.12
+samsung,Samsung Galaxy A15,128,8,6.5,1080.0,5000,189.23
+samsung,Samsung Galaxy S24 Ultra,512,12,6.8,8.0,5000,998.04
+samsung,Samsung Galaxy S24 Ultra,1000,12,6.8,8.0,5000,1178.25
+samsung,Samsung Galaxy S24+,512,12,6.7,8.0,4900,944.86
+samsung,Samsung Galaxy A35,128,8,6.6,4.0,5000,222.95
+samsung,Samsung Galaxy A35,256,8,6.6,4.0,5000,272.19
+samsung,Samsung Galaxy A55,256,8,6.6,4.0,5000,329.23
+samsung,Samsung Galaxy A55,256,12,6.6,4.0,5000,622.21
+samsung,Samsung Galaxy M55,256,8,6.7,4.0,5000,368.81
+samsung,Samsung Galaxy S24,256,8,6.2,8.0,4000,667.53
+samsung,Samsung Galaxy S24,512,8,6.2,8.0,4000,777.71
+samsung,Samsung Galaxy Z Flip6,512,12,6.7,4.0,4000,939.74
+samsung,Samsung Galaxy M15,128,6,6.5,1080.0,6000,174.97
+samsung,Samsung Galaxy Z Fold6,512,12,7.6,8.0,4400,1814.67
+samsung,Samsung Galaxy Z Fold6,1000,12,7.6,8.0,4400,2020.78
+samsung,Samsung Galaxy S24 FE,256,8,6.7,8.0,4700,841.23
+samsung,Samsung Galaxy S24 FE,512,8,6.7,8.0,4700,906.04
+samsung,Samsung Galaxy A25,256,8,6.5,4.0,5000,187.94
+samsung,Samsung Galaxy A15 5G,128,6,6.5,1080.0,5000,193.26
+samsung,Samsung Galaxy A14,128,4,6.6,1080.0,5000,115.36
+samsung,Samsung Galaxy A14,128,6,6.6,1080.0,5000,141.93
+samsung,Samsung Galaxy S23,256,8,6.1,8.0,3900,407.64
+samsung,Samsung Galaxy S23,512,8,6.1,8.0,3900,479.58
+samsung,Samsung Galaxy A14 5G,128,4,6.6,1080.0,5000,119.25
+samsung,Samsung Galaxy A14 5G,128,6,6.6,1080.0,5000,173.68
+samsung,Samsung Galaxy A14 5G,128,8,6.6,1080.0,5000,173.69
+samsung,Samsung Galaxy S23+,512,8,6.6,8.0,4700,547.0
+samsung,Samsung Galaxy A34,128,8,6.6,4.0,5000,206.1
+samsung,Samsung Galaxy A34,256,8,6.6,4.0,5000,261.82
+samsung,Samsung Galaxy S23 Ultra,256,12,6.8,8.0,5000,829.5
+samsung,Samsung Galaxy S23 Ultra,512,12,6.8,8.0,5000,1296.19
+samsung,Samsung Galaxy S23 Ultra,1000,12,6.8,8.0,5000,884.7
+samsung,Samsung Galaxy A54,128,8,6.4,4.0,5000,230.53
+samsung,Samsung Galaxy A54,256,8,6.4,4.0,5000,276.09
+samsung,Samsung Galaxy Z Fold5,512,12,7.6,8.0,4400,887.88
+samsung,Samsung Galaxy Z Fold5,1000,12,7.6,8.0,4400,880.12
+samsung,Samsung Galaxy Z Flip5,512,8,6.7,4.0,3700,552.83
+samsung,Samsung Galaxy A05,128,6,6.7,1080.0,5000,109.27
+samsung,Samsung Galaxy A05s,128,4,6.7,1080.0,5000,122.36
+samsung,Samsung Galaxy A05s,128,6,6.7,1080.0,5000,129.62
+samsung,Samsung Galaxy S23 FE,256,8,6.4,8.0,4500,427.68
+samsung,Samsung Galaxy A04e,32,4,6.5,1080.0,5000,98.5
+samsung,Samsung Galaxy A32 5G,128,4,6.5,4.0,5000,136.1
+samsung,Samsung Galaxy A32 5G,128,6,6.5,4.0,5000,200.91
+samsung,Samsung Galaxy A32 5G,128,8,6.5,4.0,5000,246.27
+samsung,Samsung Galaxy A02,32,3,6.5,1080.0,5000,127.03
+samsung,Samsung Galaxy S21 5G,256,8,6.2,8.0,4000,246.28
+samsung,Samsung Galaxy S21+ 5G,256,8,6.7,8.0,4800,233.25
+samsung,Samsung Galaxy S21 Ultra 5G,256,12,6.8,8.0,5000,361.6
+samsung,Samsung Galaxy S21 Ultra 5G,512,12,6.8,8.0,5000,330.52
+samsung,Samsung Galaxy A12,32,3,6.5,1080.0,5000,103.68
+samsung,Samsung Galaxy A12,64,4,6.5,1080.0,5000,95.92
+samsung,Samsung Galaxy A12,128,3,6.5,1080.0,5000,155.54
+samsung,Samsung Galaxy A02s,32,2,6.5,1080.0,5000,116.66
+samsung,Samsung Galaxy S20 Ultra 5G,256,12,6.9,8.0,5000,306.58
+samsung,Samsung Galaxy A31,128,4,6.4,1080.0,5000,181.46
+samsung,Samsung Galaxy A31,128,6,6.4,1080.0,5000,245.62
+samsung,Samsung Galaxy A51 5G,128,8,6.5,4.0,4500,155.48
+samsung,Samsung Galaxy M11,64,4,6.4,1080.0,5000,224.24
+samsung,Samsung Galaxy A71 5G,128,8,6.7,4.0,4500,154.25
+samsung,Samsung Galaxy Note20 5G,256,8,6.7,8.0,4300,907.33
+samsung,Samsung Galaxy Note20 Ultra 5G,256,8,6.9,8.0,4500,432.93
+samsung,Samsung Galaxy Z Flip3 5G,256,8,6.7,4.0,3300,312.38
+samsung,Samsung Galaxy S20+ 5G,128,12,6.7,8.0,4500,491.26
+samsung,Samsung Galaxy A22,128,4,6.4,1080.0,5000,194.42
+samsung,Samsung Galaxy A52,128,6,6.5,4.0,4500,185.36
+samsung,Samsung Galaxy A52,128,8,6.5,4.0,4500,178.88
+samsung,Samsung Galaxy A52,256,6,6.5,4.0,4500,648.09
+samsung,Samsung Galaxy A52 5G,128,8,6.5,4.0,4500,298.11
+samsung,Samsung Galaxy A32,128,4,6.4,1080.0,5000,136.1
+samsung,Samsung Galaxy A72,128,8,6.7,4.0,5000,289.05
+samsung,Samsung Galaxy A72,256,6,6.7,4.0,5000,602.73
+samsung,Samsung Galaxy M32,128,6,6.4,1080.0,5000,581.99
+samsung,Samsung Galaxy M12,32,4,6.5,1080.0,5000,155.53
+samsung,Samsung Galaxy M12,64,4,6.5,1080.0,5000,426.45
+samsung,Samsung Galaxy A12 Nacho,32,4,6.5,1080.0,5000,181.46
+sony,Sony Xperia 1 VI,512,12,6.5,4.0,5000,1372.68
+sony,Sony Xperia 1 IV,512,12,6.5,4.0,5000,877.53
+sony,Sony Xperia 1 V,512,12,6.5,4.0,5000,1043.44
+sony,Sony Xperia 5 IV,256,8,6.1,4.0,5000,711.61
+sony,Sony Xperia 10 III,256,6,6.0,4.0,4500,283.87
+sony,Sony Xperia 5 III,256,8,6.1,4.0,4500,326.51
+sony,Sony Xperia 1 III,512,12,6.5,4.0,4500,427.68
+tcl,TCL 40 SE,256,6,6.75,1080.0,5010,90.72
+tcl,TCL 50 SE,256,6,6.78,1080.0,5010,212.42
+xiaomi,Xiaomi Redmi 12C,64,3,6.71,1080.0,5000,79.7
+xiaomi,Xiaomi Redmi 13C 5G,128,6,6.74,1080.0,5000,158.95
+xiaomi,Xiaomi 12 Pro,256,8,6.73,8.0,4600,453.67
+xiaomi,Xiaomi Redmi Note 12 Pro,128,8,6.67,4.0,5000,259.24
+xiaomi,Xiaomi Redmi Note 12 Pro,256,8,6.67,4.0,5000,369.18
+xiaomi,Xiaomi Redmi A1+,32,3,6.52,1080.0,5000,99.39
+xiaomi,Xiaomi Poco M5,128,4,6.58,1080.0,5000,183.22
+xiaomi,Xiaomi Poco M5s,128,4,6.43,4.0,5000,168.51
+xiaomi,Xiaomi Poco M5s,128,6,6.43,4.0,5000,180.3
+xiaomi,Xiaomi 12T,256,8,6.67,4.0,5000,413.49
+xiaomi,Xiaomi Redmi Note 12 4G,128,4,6.67,1080.0,5000,125.77
+xiaomi,Xiaomi Redmi Note 12 4G,128,6,6.67,1080.0,5000,150.96
+xiaomi,Xiaomi Redmi A2+,32,3,6.52,1080.0,5000,63.51
+xiaomi,Xiaomi Redmi A2,64,3,6.52,1080.0,5000,71.28
+xiaomi,Xiaomi 13 Lite,256,8,6.55,4.0,4500,443.84
+xiaomi,Xiaomi 13 Pro,256,8,6.73,8.0,4820,989.84
+xiaomi,Xiaomi Poco X5 Pro,256,8,6.67,4.0,5000,373.79
+xiaomi,Xiaomi Redmi Note 12,128,6,6.67,1080.0,5000,168.51
+xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,6.67,4.0,5000,311.37
+xiaomi,Xiaomi Redmi Note 12S,128,6,6.43,1080.0,5000,223.61
+xiaomi,Xiaomi Redmi Note 11S 5G,128,4,6.6,1080.0,5000,159.59
+xiaomi,Xiaomi Redmi Note 11S 5G,128,6,6.6,1080.0,5000,159.29
+xiaomi,Xiaomi Redmi 10 5G,128,4,6.58,1080.0,5000,157.77
+xiaomi,Xiaomi 12,256,8,6.28,8.0,4500,329.55
+xiaomi,Xiaomi 12,256,12,6.28,8.0,4500,357.73
+xiaomi,Xiaomi 12X,256,8,6.28,8.0,4500,548.44
+xiaomi,Xiaomi Poco X4 Pro 5G,128,6,6.67,1080.0,5000,434.21
+xiaomi,Xiaomi Poco M4 Pro,128,6,6.43,1080.0,5000,227.53
+xiaomi,Xiaomi Poco F4,128,8,6.67,4.0,4500,305.86
+xiaomi,Xiaomi Poco C40,64,4,6.71,1080.0,6000,189.15
+xiaomi,Xiaomi Poco F4 GT,256,12,6.67,4.0,4700,518.47
+xiaomi,Xiaomi Poco F6 Pro,512,12,6.67,8.0,5000,501.43
+xiaomi,Xiaomi Poco F6 Pro,1000,16,6.67,8.0,5000,533.63
+xiaomi,Xiaomi Poco F6,512,12,6.67,4.0,5000,361.68
+xiaomi,Xiaomi 14,512,12,6.36,8.0,4610,973.28
+xiaomi,Xiaomi 14 Ultra,512,16,6.73,8.0,5000,1340.1
+xiaomi,Xiaomi Redmi 13,256,8,6.79,1080.0,5030,142.57
+xiaomi,Xiaomi Poco M6 4G,256,8,6.79,1080.0,5030,147.43
+xiaomi,Xiaomi 14T,512,12,6.67,4.0,5000,938.6
+xiaomi,Xiaomi 14T Pro,512,12,6.67,8.0,5000,906.04
+xiaomi,Xiaomi Redmi 14C,128,6,6.88,1080.0,5160,270.8
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,6.67,1080.0,5000,327.94
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,6.67,1080.0,5000,318.87
+xiaomi,Xiaomi Poco F5 Pro,256,12,6.67,8.0,5160,504.22
+xiaomi,Xiaomi Redmi 12,128,8,6.79,1080.0,5000,126.9
+xiaomi,Xiaomi Poco F5,256,12,6.67,4.0,5000,461.42
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,6.67,4.0,5000,343.7
+xiaomi,Xiaomi 13T Pro,512,12,6.67,8.0,5000,641.62
+xiaomi,Xiaomi 13T,256,12,6.67,4.0,5000,545.69
+xiaomi,Xiaomi Redmi Note 13 Pro,512,12,6.67,4.0,5100,330.52
+xiaomi,Xiaomi Redmi Note 13 Pro+,512,8,6.67,4.0,5000,541.75
+xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,6.67,4.0,5000,581.99
+xiaomi,Xiaomi Redmi Note 13 4G,256,8,6.67,1080.0,5000,177.58
+xiaomi,Xiaomi Poco X6,256,12,6.67,4.0,5100,365.52
+xiaomi,Xiaomi Poco X6,512,12,6.67,4.0,5100,824.38
+xiaomi,Xiaomi Redmi Note 13,256,8,6.67,1080.0,5000,174.99
+xiaomi,Xiaomi Redmi Note 13,256,12,6.67,1080.0,5000,326.2
+xiaomi,Xiaomi Poco X6 Pro,256,12,6.67,4.0,5000,333.46
+xiaomi,Xiaomi Poco X6 Pro,512,12,6.67,4.0,5000,387.56
+xiaomi,Xiaomi Poco M6 Pro,512,12,6.67,1080.0,5000,232.02
+xiaomi,Xiaomi Redmi 13C,128,6,6.74,1080.0,5000,141.53
+xiaomi,Xiaomi Redmi 13C,256,8,6.74,1080.0,5000,170.79
+xiaomi,Xiaomi Poco C65,256,8,6.74,1080.0,5000,129.41
+xiaomi,Xiaomi Redmi 10 2022,128,4,6.5,1080.0,5000,111.33
+xiaomi,Xiaomi Redmi 10 2022,128,6,6.5,1080.0,5000,112.73
+xiaomi,Xiaomi Mi Note 10 Lite,128,6,6.47,4.0,5260,311.08
+xiaomi,Xiaomi Redmi Note 9,64,4,6.53,1080.0,5020,168.49
+xiaomi,Xiaomi Redmi Note 9,128,4,6.53,1080.0,5020,362.94
+xiaomi,Xiaomi Redmi Note 9S,128,4,6.67,4.0,5020,128.69
+xiaomi,Xiaomi Redmi Note 9S,128,6,6.67,4.0,5020,447.19
+xiaomi,Xiaomi Mi 10 5G,256,6,6.67,8.0,4780,332.45
+xiaomi,Xiaomi Mi 10 5G,256,8,6.67,8.0,4780,389.35
+xiaomi,Xiaomi Poco F2 Pro,256,8,6.67,8.0,4700,487.49
+xiaomi,Xiaomi Redmi 9C,32,3,6.53,1080.0,5000,84.24
+xiaomi,Xiaomi Redmi 9C,64,3,6.53,1080.0,5000,101.09
+xiaomi,Xiaomi Redmi 9C,64,4,6.53,1080.0,5000,163.27
+xiaomi,Xiaomi Redmi Note 9 Pro,128,6,6.67,4.0,5020,181.47
+xiaomi,Xiaomi Redmi 9A,32,3,6.53,1080.0,5000,101.74
+xiaomi,Xiaomi Redmi 9,64,4,6.53,1080.0,5020,254.86
+xiaomi,Xiaomi Redmi 9,128,4,6.53,1080.0,5020,139.08
+xiaomi,Xiaomi Redmi Note 9T,128,4,6.53,4.0,5000,150.24
+xiaomi,Xiaomi Redmi Note 9T,128,6,6.53,4.0,5000,452.37
+xiaomi,Xiaomi Poco M3,64,6,6.53,1080.0,6000,129.61
+xiaomi,Xiaomi Mi 10T Pro 5G,256,8,6.67,8.0,5000,320.2
+xiaomi,Xiaomi Redmi 9T,128,4,6.53,1080.0,6000,116.65
+xiaomi,Xiaomi Mi 11 Lite 5G,128,6,6.55,4.0,4250,281.68
+xiaomi,Xiaomi Mi 11 Lite 5G,128,8,6.55,4.0,4250,174.97
+xiaomi,Xiaomi Poco X3 Pro,128,8,6.67,4.0,5160,349.83
+xiaomi,Xiaomi Redmi Note 10 Pro,128,6,6.67,4.0,5020,224.54
+xiaomi,Xiaomi Redmi Note 10 Pro,128,8,6.67,4.0,5020,159.98
+xiaomi,Xiaomi Redmi Note 10 Pro,256,8,6.67,4.0,5020,281.94
+xiaomi,Xiaomi Redmi Note 10 5G,128,4,6.5,1080.0,5000,217.76
+xiaomi,Xiaomi Redmi Note 10 5G,128,6,6.5,1080.0,5000,139.99
+xiaomi,Xiaomi Redmi Note 10S,128,4,6.43,4.0,5000,184.22
+xiaomi,Xiaomi Redmi Note 10S,128,6,6.43,4.0,5000,174.97
+xiaomi,Xiaomi Mi 11,128,8,6.81,8.0,4600,324.05
+xiaomi,Xiaomi Redmi Note 11 Pro,128,6,6.67,1080.0,5000,177.22
+xiaomi,Xiaomi Redmi Note 11 Pro,128,8,6.67,1080.0,5000,243.52
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,4,6.67,1080.0,5000,180.83
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,6.67,1080.0,5000,219.06
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,6.67,1080.0,5000,280.07
+xiaomi,Xiaomi Redmi Note 11,64,6,6.43,1080.0,5000,146.83
+xiaomi,Xiaomi Redmi Note 11,128,4,6.43,1080.0,5000,143.88
+xiaomi,Xiaomi Redmi Note 11,128,6,6.43,1080.0,5000,174.7
+xiaomi,Xiaomi Redmi Note 11S,128,6,6.43,1080.0,5000,152.73
+xiaomi,Xiaomi Redmi Note 11S,128,8,6.43,1080.0,5000,185.62
+xiaomi,Xiaomi Redmi Note 11 4G,128,6,6.5,1080.0,5000,155.54
+xiaomi,Xiaomi Poco M4 Pro 5G,64,6,6.6,1080.0,5000,193.42
+xiaomi,Xiaomi Poco M4 Pro 5G,128,6,6.6,1080.0,5000,316.27
+xiaomi,Xiaomi Mi 11 Pro,256,8,6.81,8.0,5000,330.4
+xiaomi,Xiaomi Redmi 10,128,4,6.5,1080.0,5000,116.65
+xiaomi,Xiaomi Redmi 10,128,6,6.5,1080.0,5000,129.61
+xiaomi,Xiaomi 11T Pro,256,8,6.67,8.0,5000,259.23
+xiaomi,Xiaomi 11T Pro,256,12,6.67,8.0,5000,207.38
+xiaomi,Xiaomi 11 Lite 5G NE,128,8,6.55,4.0,4250,556.07
+xiaomi,Xiaomi 11 Lite 5G NE,256,8,6.55,4.0,4250,174.97
+xiaomi,Xiaomi 11T,256,8,6.67,4.0,5000,190.53
+zte,ZTE nubia Flip,256,8,6.9,4.0,4310,579.39
+zte,ZTE nubia Z60 Ultra,256,12,6.8,8.0,6000,758.26
+zte,ZTE nubia Red Magic 9 Pro,512,16,6.8,8.0,6500,841.23
+zte,ZTE nubia Z50S Pro,1000,12,6.8,8.0,5100,676.62
+zte,ZTE nubia Red Magic 9S Pro,512,16,6.8,8.0,6500,854.2
+zte,ZTE Axon 40 Ultra,256,8,6.8,8.0,5000,1165.28
+blackview,Blackview A96,256,12,6.5,1440.0,4380,146.43
+cubot,Cubot KingKong X,512,16,6.58,4.0,10200,208.79
+honor,Honor Magic5 Pro,256,12,6.81,4.0,5100,759.0
+honor,Honor X8a,128,8,6.7,1080.0,4500,175.0
+honor,Honor X8b,256,6,6.7,1080.0,4500,177.9
+honor,Honor X8b,256,8,6.7,1080.0,4500,179.1
+honor,Honor Magic V3,512,16,7.92,4.0,5150,1459.0
+huawei,Huawei P30,128,6,6.1,4.0,3650,139.52
+huawei,Huawei Mate 50 Pro,512,8,6.74,4.0,4700,486.39
+huawei,Huawei Pura 70,512,12,6.6,4.0,4900,806.99
+huawei,Huawei nova 11,256,8,6.7,4.0,4500,310.4
+huawei,Huawei Pura 70 Ultra,1000,16,6.8,4.0,5200,1440.0
+huawei,Huawei Pura 70 Pro,512,12,6.8,4.0,5050,1300.0
+huawei,Huawei Pura 70 Pro,1000,12,6.8,4.0,5050,899.99
+infinix,Infinix Hot 12 Play,128,4,6.82,1080.0,6000,92.5
+infinix,Infinix Hot 12 Play,128,6,6.82,1080.0,6000,102.13
+nokia,Nokia G42,128,6,6.56,1080.0,5000,142.57
+nokia,Nokia X30,256,8,6.43,1080.0,4200,279.89
+nokia,Nokia C31,32,4,6.75,1080.0,5050,115.09
+nokia,Nokia G60,128,4,6.58,1080.0,4500,291.4
+nokia,Nokia XR20,128,6,6.67,1080.0,4630,241.3
+nokia,Nokia G21,64,4,6.5,1080.0,5050,162.0
+oppo,Oppo Find X3 Pro,256,12,6.7,4.0,4500,239.51
+realme,Realme C61,256,6,6.74,1080.0,5000,121.27
+realme,Realme 12x,256,8,6.67,1080.0,5000,162.05
+realme,Realme C35,64,6,6.6,1080.0,5000,134.53
+realme,Realme GT 5G,256,12,6.43,4.0,4500,220.8
+realme,Realme C53,256,8,6.74,1080.0,5000,122.63
+vivo,vivo Y50,128,8,6.53,1080.0,5000,69.3
+vivo,vivo iQOO 12,512,16,6.78,8.0,5000,649.59
+vivo,vivo iQOO 12,1000,16,6.78,8.0,5000,596.99
+vivo,vivo X100 Pro,256,16,6.78,8.0,5400,759.99
+vivo,vivo X100,256,16,6.78,4.0,5000,584.79
+vivo,vivo X100,512,16,6.78,4.0,5000,591.99
+xiaomi,Xiaomi Poco M3 Pro 5G,128,6,6.5,1080.0,5000,251.73
+xiaomi,Xiaomi Redmi 12C,64,3,6.71,1080.0,5000,84.0
+xiaomi,Xiaomi 12 Pro,256,8,6.73,8.0,4600,399.0
+xiaomi,Xiaomi Poco M5s,128,4,6.43,4.0,5000,137.36
+xiaomi,Xiaomi Poco M5s,128,6,6.43,4.0,5000,176.33
+xiaomi,Xiaomi Poco M5s,256,8,6.43,4.0,5000,107.0
+xiaomi,Xiaomi Poco M4 5G,128,6,6.58,1080.0,5000,205.0
+xiaomi,Xiaomi Redmi Note 12 4G,128,4,6.67,1080.0,5000,119.21
+xiaomi,Xiaomi Redmi Note 12 4G,128,6,6.67,1080.0,5000,195.0
+xiaomi,Xiaomi Redmi Note 12 4G,128,8,6.67,1080.0,5000,154.0
+xiaomi,Xiaomi Redmi A2+,32,3,6.52,1080.0,5000,89.91
+xiaomi,Xiaomi Redmi A2+,64,3,6.52,1080.0,5000,69.63
+xiaomi,Xiaomi Redmi A2,32,3,6.52,1080.0,5000,92.98
+xiaomi,Xiaomi Poco X5 Pro,256,8,6.67,4.0,5000,249.29
+xiaomi,Xiaomi Redmi Note 12S,128,6,6.43,1080.0,5000,127.0
+xiaomi,Xiaomi Redmi 10A,32,3,6.53,1080.0,5000,93.52
+xiaomi,Xiaomi Redmi 10A,64,3,6.53,1080.0,5000,75.0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,6.67,4.0,4500,144.6
+xiaomi,Xiaomi 12,256,8,6.28,8.0,4500,295.0
+xiaomi,Xiaomi Poco F4,128,8,6.67,4.0,4500,249.29
+xiaomi,Xiaomi Poco C40,32,4,6.71,1080.0,6000,108.37
+xiaomi,Xiaomi Poco C40,64,4,6.71,1080.0,6000,111.25
+xiaomi,Xiaomi 14,256,12,6.36,8.0,4610,153.49
+xiaomi,Xiaomi Redmi A3,128,4,6.71,1080.0,5000,161.07
+xiaomi,Xiaomi Redmi 13,256,8,6.79,1080.0,5030,159.0
+xiaomi,Xiaomi Poco M6 4G,256,8,6.79,1080.0,5030,154.69
+xiaomi,Xiaomi Mix Flip,512,12,6.86,8.0,4780,1999.0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,6.67,1080.0,5000,262.05
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,6.67,1080.0,5000,200.0
+xiaomi,Xiaomi Poco F5 Pro,256,12,6.67,8.0,5160,436.99
+xiaomi,Xiaomi Redmi 12,128,8,6.79,1080.0,5000,119.0
+xiaomi,Xiaomi 13 Ultra,512,12,6.73,8.0,5000,1305.0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,6.67,4.0,5000,189.0
+xiaomi,Xiaomi 13T Pro,512,12,6.67,8.0,5000,899.0
+xiaomi,Xiaomi Redmi Note 13 Pro,256,8,6.67,4.0,5100,219.72
+xiaomi,Xiaomi Redmi Note 13 Pro,256,12,6.67,4.0,5100,218.27
+xiaomi,Xiaomi Redmi Note 13 Pro+,256,12,6.67,4.0,5000,289.12
+xiaomi,Xiaomi Redmi Note 13 4G,128,8,6.67,1080.0,5000,169.0
+xiaomi,Xiaomi Poco X6,256,12,6.67,4.0,5100,235.37
+xiaomi,Xiaomi Poco X6,512,12,6.67,4.0,5100,228.0
+xiaomi,Xiaomi Redmi Note 13,256,8,6.67,1080.0,5000,755.0
+xiaomi,Xiaomi Redmi Note 13,256,12,6.67,1080.0,5000,111.0
+xiaomi,Xiaomi Poco X6 Pro,256,12,6.67,4.0,5000,369.0
+xiaomi,Xiaomi Poco X6 Pro,512,12,6.67,4.0,5000,342.77
+xiaomi,Xiaomi Poco M6 Pro,512,12,6.67,1080.0,5000,174.49
+xiaomi,Xiaomi Redmi 13C,128,6,6.74,1080.0,5000,82.24
+xiaomi,Xiaomi Poco C65,256,8,6.74,1080.0,5000,105.0
+xiaomi,Xiaomi Redmi 10 2022,128,4,6.5,1080.0,5000,158.09
+xiaomi,Xiaomi Redmi Note 9,64,4,6.53,1080.0,5020,125.99
+xiaomi,Xiaomi Redmi Note 9,128,4,6.53,1080.0,5020,85.5
+xiaomi,Xiaomi Redmi 9C,32,3,6.53,1080.0,5000,64.8
+xiaomi,Xiaomi Redmi 9A,32,3,6.53,1080.0,5000,86.25
+xiaomi,Xiaomi Redmi 9A,64,4,6.53,1080.0,5000,52.63
+xiaomi,Xiaomi Redmi 9A,128,4,6.53,1080.0,5000,71.1
+xiaomi,Xiaomi Redmi 9,64,4,6.53,1080.0,5020,66.11
+xiaomi,Xiaomi Redmi 9,128,4,6.53,1080.0,5020,125.56
+xiaomi,Xiaomi Redmi Note 10 Pro,128,6,6.67,4.0,5020,139.5
+xiaomi,Xiaomi Redmi Note 10S,128,4,6.43,4.0,5000,156.0
+xiaomi,Xiaomi Redmi Note 10S,128,6,6.43,4.0,5000,145.35
+xiaomi,Xiaomi Redmi Note 11 Pro,128,6,6.67,1080.0,5000,161.0
+xiaomi,Xiaomi 11 Lite 5G NE,128,8,6.55,4.0,4250,266.66
+zte,ZTE nubia Red Magic 6,128,12,6.8,8.0,5050,515.0
+Apple,iPhone 13 Pro,128,6,6.1,12.0,3095,999.0
+Samsung,Galaxy S21 Ultra,256,12,6.8,108.0,5000,1199.0
+OnePlus,9 Pro,128,8,6.7,48.0,4500,899.0
+Xiaomi,Redmi Note 10 Pro,128,6,6.67,64.0,5020,279.0
+Google,Pixel 6,128,8,6.4,50.0,4614,799.0
+Apple,iPhone 13,128,4,6.1,12.0,2815,799.0
+Samsung,Galaxy Z Flip3,256,8,6.7,12.0,3300,999.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,249.0
+Oppo,Reno6 Pro+ 5G,128,8,6.55,50.0,4500,699.0
+Vivo,X70 Pro+,256,12,6.78,50.0,4500,1199.0
+OnePlus,Nord CE 5G,128,6,6.43,64.0,4500,329.0
+Samsung,Galaxy A52s 5G,128,6,6.5,64.0,4500,449.0
+Realme,GT Neo2,128,8,6.62,64.0,5000,329.0
+Apple,iPhone 12 Mini,64,4,5.4,12.0,2227,699.0
+Oppo,Find X3 Pro,256,12,6.7,50.0,4500,1199.0
+Xiaomi,Mi 11 Lite 5G NE,128,6,6.55,64.0,4250,329.0
+Samsung,Galaxy S21,128,8,6.2,64.0,4000,799.0
+Vivo,Y20s (G),128,6,6.51,50.0,5000,199.0
+Realme,8s 5G,128,6,6.5,48.0,5000,299.0
+Oppo,A94,128,8,6.43,48.0,4310,379.0
+Xiaomi,Redmi 10 Prime,128,6,6.5,50.0,6000,179.0
+Samsung,Galaxy A22 5G,128,4,6.6,48.0,5000,279.0
+Realme,Narzo 50 Pro 5G,128,6,6.5,48.0,5000,249.0
+OnePlus,9,128,8,6.55,48.0,4500,729.0
+Xiaomi,Redmi Note 10 Pro Max,128,6,6.67,108.0,5020,279.0
+Apple,iPhone 11,64,4,6.1,12.0,3110,599.0
+Samsung,Galaxy A03s,32,3,6.5,13.0,5000,139.0
+Oppo,A74 5G,128,6,6.5,48.0,5000,299.0
+Vivo,Y12s (2021),32,3,6.51,13.0,5000,139.0
+Realme,9i,128,4,6.5,50.0,6000,189.0
+Samsung,Galaxy M52 5G,128,6,6.7,64.0,5000,449.0
+Xiaomi,Redmi 10,128,4,6.5,50.0,5000,179.0
+Apple,iPhone SE (2nd Gen),64,3,4.7,12.0,1821,399.0
+Oppo,A53s,128,6,6.5,13.0,5000,259.0
+Vivo,Y33s,128,8,6.58,50.0,5000,279.0
+Realme,C25s,128,4,6.5,13.0,6000,159.0
+Samsung,Galaxy A22 4G,128,6,6.4,48.0,5000,229.0
+OnePlus,Nord 2 5G,128,8,6.43,50.0,4500,399.0
+Xiaomi,Poco M3 Pro 5G,64,4,6.5,48.0,5000,199.0
+Apple,iPhone XR,64,3,6.1,12.0,2942,499.0
+Oppo,A16,64,3,6.52,13.0,5000,159.0
+Realme,C21Y,64,4,6.5,13.0,5000,129.0
+Samsung,Galaxy F22,64,4,6.4,48.0,6000,189.0
+Oppo,F19 Pro+ 5G,128,8,6.43,64.0,4310,399.0
+Xiaomi,Mi 11X,128,8,6.67,48.0,4520,529.0
+Apple,iPhone 12 Mini,64,4,5.4,12.0,2227,699.0
+Vivo,V21e,128,8,6.44,64.0,4000,369.0
+Realme,8 5G,128,4,6.5,48.0,5000,199.0
+Samsung,Galaxy M12,64,4,6.5,48.0,6000,159.0
+Oppo,A16s,64,4,6.52,13.0,5000,179.0
+Xiaomi,Redmi 9 Power,128,4,6.53,48.0,6000,189.0
+Apple,iPhone 11 Pro Max,256,4,6.5,12.0,3969,1099.0
+Vivo,Y20G,64,4,6.51,13.0,5000,169.0
+Realme,Narzo 50i,32,2,6.5,50.0,5000,99.0
+Samsung,Galaxy A52s 5G,128,6,6.5,64.0,4500,459.0
+Oppo,A54,128,4,6.51,13.0,5000,239.0
+Xiaomi,Redmi 9T,128,4,6.53,48.0,6000,199.0
+Apple,iPhone 13 Pro Max,256,6,6.7,12.0,4352,1299.0
+Vivo,Y33,128,8,6.58,50.0,5000,249.0
+Samsung,Galaxy A72,128,8,6.7,64.0,5000,429.0
+Oppo,Reno6 Pro 5G,128,12,6.55,64.0,4500,659.0
+Xiaomi,Poco M3 Pro 5G,64,4,6.5,48.0,5000,199.0
+Apple,iPhone SE (2020),64,3,4.7,12.0,1821,399.0
+Vivo,Y53s,128,8,6.58,64.0,5000,269.0
+Realme,7i,128,8,6.5,64.0,5000,239.0
+Samsung,Galaxy A52 5G,128,6,6.5,64.0,4500,449.0
+Oppo,F19 Pro,128,8,6.43,48.0,4310,359.0
+Xiaomi,Redmi Note 10S,128,6,6.43,64.0,5000,229.0
+Apple,iPhone XR,64,3,6.1,12.0,2942,499.0
+Vivo,Y21s,128,4,6.51,50.0,5000,179.0
+Realme,C25s,128,4,6.5,13.0,6000,169.0
+Samsung,Galaxy A22 5G,128,4,6.6,48.0,5000,239.0
+Oppo,A94,128,8,6.43,48.0,4310,329.0
+Xiaomi,Mi 11 Lite 5G,128,6,6.55,64.0,4250,369.0
+Apple,iPhone 11,128,4,6.1,12.0,3110,599.0
+Vivo,X60 Pro,256,12,6.56,48.0,4200,799.0
+Realme,Narzo 50A,64,4,6.5,50.0,5000,139.0
+Apple,iPhone 13,128,4,6.1,12.0,2815,799.0
+Samsung,Galaxy S21,128,8,6.2,64.0,4000,799.0
+OnePlus,Nord 2,128,8,6.43,50.0,4500,399.0
+Google,Pixel 6,128,8,6.4,50.0,4600,699.0
+Xiaomi,Poco X4 Pro,128,6,6.67,48.0,5160,329.0
+Realme,GT Master Edition,128,8,6.43,64.0,4300,399.0
+Vivo,X70 Pro+,256,12,6.78,50.0,4450,999.0
+Oppo,Reno6 Pro+,256,12,6.55,50.0,4500,699.0
+Motorola,Edge 20 Pro,256,12,6.7,108.0,4500,699.0
+Nokia,XR20,128,6,6.67,48.0,4630,549.0
+Sony,Xperia 5 III,128,8,6.1,12.0,4500,1299.0
+LG,Wing,256,8,6.8,64.0,4000,999.0
+Asus,Zenfone 8 Flip,256,8,6.67,64.0,5000,899.0
+Blackberry,KEY2 LE,64,4,4.5,13.0,3000,399.0
+Samsung,Galaxy A72,128,6,6.7,64.0,5000,449.0
+Xiaomi,Redmi Note 10 Pro Max,128,6,6.67,108.0,5020,319.0
+Realme,Narzo 50 Pro 5G,128,8,6.5,48.0,5000,269.0
+Oppo,F19 Pro+,128,8,6.43,48.0,4310,349.0
+Vivo,Y33s,128,8,6.58,50.0,5000,269.0
+Motorola,Moto G60,128,6,6.8,108.0,6000,279.0
+Nokia,5.4,64,4,6.39,48.0,4000,249.0
+LG,K92 5G,128,6,6.7,64.0,4000,349.0
+Asus,Zenfone 8,128,6,5.9,64.0,4000,699.0
+Blackberry,KEY2,64,6,4.5,12.0,3500,699.0
+CAT,S42,32,3,5.5,13.0,4200,299.0
+Samsung,Galaxy Z Flip 3,128,8,6.7,12.0,3300,999.0
+OnePlus,9 Pro,256,12,6.7,48.0,4500,969.0
+Xiaomi,Mi 11 Ultra,256,12,6.81,50.0,5000,1199.0
+Oppo,A16,32,3,6.52,13.0,5000,149.0
+Vivo,Y12A,32,3,6.51,13.0,5000,139.0
+Nokia,C20 Plus,32,3,6.5,8.0,4950,99.0
+Samsung,Galaxy S20 FE 5G,128,6,6.5,12.0,4500,699.0
+Motorola,Moto E7i Power,32,2,6.5,13.0,5000,99.0
+Xiaomi,Poco M3 Pro 5G,128,6,6.5,48.0,5000,199.0
+Realme,C21Y,64,4,6.5,13.0,5000,169.0
+Asus,ROG Phone 5,128,8,6.78,64.0,6000,999.0
+LG,Velvet 5G,128,6,6.8,48.0,4300,499.0
+Blackberry,Evolve,64,6,5.99,12.0,4000,399.0
+Oppo,Reno 6 Pro+,256,12,6.55,50.0,4500,799.0
+Samsung,Galaxy A03s,64,4,6.5,13.0,5000,179.0
+Xiaomi,Redmi 10 Prime,128,6,6.5,50.0,6000,219.0
+Motorola,Moto G50,64,4,6.5,48.0,5000,249.0
+Realme,Narzo 50A,64,4,6.5,50.0,6000,149.0
+Nokia,G20,64,4,6.5,48.0,5050,199.0
+Samsung,Galaxy M32,128,6,6.4,64.0,6000,279.0
+Vivo,Y20G,64,4,6.51,13.0,5000,179.0
+Asus,Zenfone 8 Flip,128,8,6.67,64.0,5000,899.0
+Oppo,A54,128,6,6.51,50.0,5000,269.0
+Samsung,Galaxy F22,128,6,6.4,48.0,6000,229.0
+Xiaomi,Mi 11 Lite 5G,128,6,6.55,64.0,4250,399.0
+Realme,8i,128,4,6.6,50.0,5000,239.0
+Nokia,C30,64,3,6.82,13.0,6000,149.0
+Samsung,Galaxy A32,128,6,6.4,64.0,5000,279.0
+Xiaomi,Redmi Note 10 Pro Max,128,8,6.67,108.0,5020,329.0
+Realme,C21Y,64,4,6.5,13.0,5000,149.0
+Nokia,XR20,128,6,6.67,48.0,4630,549.0
+Samsung,Galaxy A52s 5G,128,6,6.5,64.0,4500,449.0
+Vivo,Y33s,128,8,6.58,50.0,5000,279.0
+Oppo,A16s,64,4,6.52,13.0,5000,199.0
+Motorola,Moto G Stylus 5G,128,5,6.8,48.0,5000,399.0
+Xiaomi,Poco M3 Pro 5G,64,4,6.5,48.0,5000,179.0
+Realme,GT Neo2,128,8,6.62,64.0,5000,399.0
+Nokia,C20 Plus,32,3,6.5,8.0,4950,109.0
+Samsung,Galaxy A21s,128,4,6.5,48.0,5000,219.0
+Vivo,Y12s,32,3,6.51,13.0,5000,149.0
+Oppo,F19s,128,6,6.43,48.0,5000,299.0
+Realme,Narzo 30 Pro 5G,128,8,6.5,48.0,5000,279.0
+Samsung,Galaxy A03s,32,3,6.5,13.0,5000,149.0
+Xiaomi,Redmi 10 Prime,128,4,6.5,50.0,6000,189.0
+Motorola,Moto G Pure,32,3,6.5,48.0,5000,169.0
+Oppo,Reno6 Z 5G,128,8,6.4,64.0,4310,389.0
+Samsung,Galaxy S21 Ultra 5G,256,12,6.8,108.0,5000,1199.0
+Vivo,Y53s,128,8,6.58,64.0,5000,299.0
+Realme,8i,128,4,6.6,50.0,5000,219.0
+Nokia,G50,64,4,6.82,48.0,5000,299.0
+Xiaomi,Redmi 9 Activ,64,4,6.53,13.0,5000,149.0
+Oppo,A54s,128,6,6.5,50.0,5000,249.0
+Samsung,Galaxy M22,128,4,6.4,48.0,5000,219.0
+Motorola,Moto G Power 2022,128,4,6.6,48.0,5000,249.0
+Vivo,Y21s,128,4,6.51,50.0,5000,179.0
+Xiaomi,Poco X3 GT,128,8,6.6,64.0,5000,299.0
+Samsung,Galaxy F42 5G,128,8,6.6,64.0,5000,309.0
+Oppo,A16s,128,4,6.52,13.0,5000,179.0
+Vivo,V21e,128,8,6.44,64.0,4000,369.0
+Realme,GT Master Edition,128,6,6.43,64.0,4300,349.0
+Motorola,Edge 20 Fusion,128,6,6.7,108.0,5000,499.0
+Samsung,Galaxy A21s,64,4,6.5,48.0,5000,199.0
+Xiaomi,Redmi Note 10S,128,6,6.43,64.0,5000,229.0
+Oppo,A74 5G,128,6,6.5,48.0,5000,299.0
+Realme,C21,64,3,6.5,13.0,5000,129.0
+Samsung,Galaxy M52 5G,128,6,6.7,64.0,5000,449.0
+Vivo,V21 5G,128,8,6.44,64.0,4000,499.0
+Xiaomi,Redmi Note 9 Pro Max,128,6,6.67,64.0,5020,279.0
+Motorola,Moto G Stylus 5G,128,5,6.8,48.0,5000,399.0
+Oppo,Reno6 Pro+ 5G,256,12,6.55,50.0,4500,849.0
+Realme,Narzo 30 Pro 5G,128,6,6.5,48.0,5000,279.0
+Samsung,Galaxy A32,128,4,6.4,64.0,5000,299.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,249.0
+Realme,C25s,128,4,6.5,13.0,6000,149.0
+Motorola,Moto G Power 2021,64,4,6.6,48.0,5000,199.0
+Samsung,Galaxy A52s 5G,128,6,6.5,64.0,4500,469.0
+Vivo,V21e 5G,128,8,6.44,64.0,4000,329.0
+Oppo,A53s 5G,128,6,6.52,13.0,5000,279.0
+Realme,GT Neo2,128,8,6.62,64.0,5000,369.0
+Samsung,Galaxy M32,128,4,6.4,64.0,6000,269.0
+Xiaomi,Mi 11 Lite NE,128,6,6.55,64.0,4250,329.0
+Motorola,Moto G Stylus 2021,128,4,6.4,48.0,4000,299.0
+Oppo,A54s 5G,128,6,6.5,48.0,5000,299.0
+Samsung,Galaxy F41,128,6,6.4,64.0,6000,239.0
+Xiaomi,Redmi Note 10 Pro,128,6,6.67,64.0,5020,329.0
+Realme,Narzo 50A,128,4,6.5,50.0,5000,149.0
+Oppo,A16s,64,4,6.52,13.0,5000,189.0
+Samsung,Galaxy M52,128,6,6.7,64.0,5000,449.0
+Vivo,V21 5G,128,8,6.44,64.0,4000,399.0
+Motorola,Moto G50s,128,4,6.5,48.0,5000,249.0
+Samsung,Galaxy A13,64,4,6.5,50.0,5000,189.0
+Xiaomi,Redmi 9 Activ,128,6,6.53,50.0,5000,209.0
+Realme,7i,128,8,6.5,64.0,5000,199.0
+Oppo,A74 5G,128,6,6.5,48.0,5000,299.0
+Samsung,Galaxy A42 5G,128,4,6.6,48.0,5000,329.0
+Vivo,Y33s,128,8,6.58,50.0,5000,249.0
+Motorola,Moto G9 Power Lite,64,4,6.5,48.0,6000,149.0
+Realme,C21Y,64,4,6.5,13.0,5000,119.0
+Samsung,Galaxy A22,128,4,6.4,48.0,5000,219.0
+Xiaomi,Redmi Note 10S,128,6,6.43,64.0,5000,279.0
+Oppo,A74,128,6,6.43,48.0,5000,299.0
+Samsung,Galaxy A32,128,4,6.4,64.0,5000,269.0
+Vivo,Y72 5G,128,8,6.58,64.0,5000,339.0
+Motorola,Moto G60,128,6,6.8,108.0,6000,299.0
+Xiaomi,Mi 10i,128,6,6.67,108.0,4820,319.0
+Realme,Narzo 30 Pro,128,8,6.5,48.0,5000,279.0
+Samsung,Galaxy M62,128,8,6.7,64.0,7000,429.0
+Oppo,A53s,128,6,6.5,50.0,5000,269.0
+Xiaomi,Redmi 10 Prime,128,6,6.5,50.0,6000,199.0
+Realme,C25s,128,4,6.5,13.0,6000,159.0
+Samsung,Galaxy A12,64,4,6.5,48.0,5000,179.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,299.0
+Samsung,Galaxy A03s,64,4,6.5,13.0,5000,149.0
+Oppo,A15s,64,4,6.52,13.0,4230,169.0
+Realme,C11 2021,32,2,6.52,8.0,5000,99.0
+Nokia,C30,32,2,6.82,13.0,6000,149.0
+Xiaomi,Redmi 9i,64,4,6.53,13.0,5000,139.0
+Samsung,Galaxy A22 5G,128,4,6.6,48.0,5000,279.0
+Oppo,A53,128,6,6.5,13.0,5000,219.0
+Vivo,Y12s,32,3,6.51,13.0,5000,149.0
+Xiaomi,Mi 11 Lite 5G,128,8,6.55,64.0,4250,429.0
+Realme,7 5G,128,6,6.5,48.0,5000,279.0
+Samsung,Galaxy M31s,128,6,6.5,64.0,6000,379.0
+Oppo,A15,32,3,6.52,13.0,4230,149.0
+Nokia,G10,32,3,6.52,13.0,5050,169.0
+Xiaomi,Poco X3 GT,128,8,6.6,64.0,5000,329.0
+Realme,C25,64,4,6.5,13.0,6000,179.0
+Xiaomi,Redmi Note 10 Pro Max,128,8,6.67,108.0,5020,329.0
+Samsung,Galaxy A52 5G,128,6,6.5,64.0,4500,449.0
+Oppo,A94,128,8,6.43,48.0,4310,399.0
+Vivo,Y33s,128,8,6.58,50.0,5000,289.0
+Realme,Narzo 50A,64,4,6.5,50.0,5000,149.0
+Nokia,X20,128,6,6.67,64.0,4470,449.0
+Xiaomi,Redmi 9 Power,128,4,6.53,48.0,6000,199.0
+Samsung,Galaxy M12,64,4,6.5,48.0,6000,179.0
+Oppo,A53s,128,6,6.5,13.0,5000,229.0
+Vivo,Y20s G,128,6,6.51,50.0,5000,209.0
+Realme,C21Y,64,4,6.5,13.0,5000,139.0
+Nokia,C20 Plus,32,3,6.5,8.0,4950,99.0
+Xiaomi,Redmi 10 Prime,128,4,6.5,50.0,6000,199.0
+Oppo,Reno 6 Pro 5G,128,12,6.55,64.0,4500,549.0
+Vivo,Y31s,128,6,6.58,13.0,5000,239.0
+Realme,8 5G,128,8,6.5,48.0,5000,299.0
+Nokia,G20,64,4,6.5,48.0,5050,199.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,249.0
+Samsung,Galaxy A32 5G,128,4,6.5,48.0,5000,279.0
+Oppo,A16,32,3,6.52,13.0,5000,149.0
+Vivo,V21 5G,128,8,6.44,64.0,4000,469.0
+Realme,C11 2021,32,2,6.5,8.0,5000,99.0
+Nokia,5.4,128,4,6.39,48.0,4000,249.0
+Xiaomi,Redmi Note 10,64,4,6.43,48.0,5000,199.0
+Samsung,Galaxy F41,64,6,6.4,64.0,6000,249.0
+Oppo,A54,128,6,6.51,48.0,5000,249.0
+Vivo,V20 SE,128,8,6.44,48.0,4100,319.0
+Nokia,3.4,64,3,6.39,13.0,4000,179.0
+Xiaomi,Redmi Note 9 Pro Max,64,6,6.67,64.0,5020,279.0
+Samsung,Galaxy M31s,128,8,6.5,64.0,6000,349.0
+Oppo,A54,128,4,6.51,13.0,5000,219.0
+Vivo,Y12s,32,3,6.51,13.0,5000,149.0
+Realme,C20,32,2,6.5,8.0,5000,99.0
+Nokia,1.4,32,2,6.51,8.0,4000,119.0
+Xiaomi,Redmi 9 Power,64,4,6.53,48.0,6000,169.0
+Samsung,Galaxy A02s,32,3,6.5,13.0,5000,139.0
+Oppo,A15s,64,4,6.52,13.0,4230,159.0
+Vivo,Y51A,128,8,6.58,48.0,5000,289.0
+Realme,Narzo 20,64,4,6.5,48.0,6000,199.0
+Nokia,5.3,64,3,6.55,13.0,4000,199.0
+Xiaomi,Redmi Note 8,64,4,6.3,48.0,4000,179.0
+Samsung,Galaxy M11,32,3,6.4,13.0,5000,130.0
+Oppo,A54,64,4,6.51,13.0,5000,199.0
+Vivo,Y20s,128,8,6.51,13.0,5000,249.0
+Realme,C11,32,2,6.5,13.0,5000,99.0
+Nokia,2.4,32,2,6.5,8.0,4500,129.0
+Xiaomi,Redmi 9,64,4,6.53,13.0,5020,149.0
+Samsung,Galaxy A11,32,2,6.4,13.0,4000,129.0
+Oppo,A12,64,4,6.22,13.0,4230,139.0
+Vivo,Y20G,128,6,6.51,13.0,5000,229.0
+Realme,C15,64,4,6.5,13.0,6000,179.0
+Nokia,3.1 Plus,32,3,6.0,13.0,3500,139.0
+Xiaomi,Redmi Note 7,64,4,6.3,48.0,4000,159.0
+Samsung,Galaxy A12,64,4,6.5,48.0,5000,179.0
+Oppo,A31,128,4,6.5,12.0,4230,199.0
+Vivo,Y15,64,4,6.35,13.0,5000,189.0
+Realme,Narzo 10A,32,3,6.5,12.0,5000,129.0
+Xiaomi,Redmi 9T,128,4,6.53,48.0,6000,229.0
+Samsung,Galaxy A30s,64,4,6.4,25.0,4000,279.0
+Samsung,Galaxy Note 20 Ultra,256,12,6.9,108.0,4500,1299.0
+Apple,iPhone SE (2020),64,3,4.7,12.0,1821,399.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,249.0
+Google,Pixel 5,128,8,6.0,12.2,4080,699.0
+Huawei,Mate 40 Pro,256,8,6.76,50.0,4400,1199.0
+OnePlus,Nord N10 5G,128,6,6.49,64.0,4300,299.0
+Oppo,Reno 5 Pro 5G,128,8,6.55,64.0,4350,449.0
+Samsung,Galaxy A71,128,6,6.7,64.0,4500,599.0
+Nokia,8.3 5G,128,8,6.81,64.0,4500,499.0
+Apple,iPhone 11 Pro Max,512,4,6.5,12.0,3969,1099.0
+Xiaomi,Mi 11,256,8,6.81,108.0,4600,749.0
+Motorola,Moto G Power (2021),64,4,6.6,48.0,5000,199.0
+Google,Pixel 4a 5G,128,6,6.2,12.2,3885,499.0
+Huawei,Nova 8 Pro 5G,128,8,6.72,64.0,4000,699.0
+Samsung,Galaxy A52,128,6,6.5,64.0,4500,449.0
+OnePlus,8T,256,12,6.55,48.0,4500,749.0
+Xiaomi,Redmi 9,64,4,6.53,13.0,5020,149.0
+Apple,iPhone 13,128,6,6.1,12.0,2815,799.0
+Oppo,A15s,64,4,6.52,13.0,4230,159.0
+Nokia,G50 5G,128,4,6.82,48.0,4850,299.0
+Apple,iPhone XR,64,3,6.1,12.0,2942,599.0
+Samsung,Galaxy S21 Ultra 5G,256,12,6.8,108.0,5000,1199.0
+Xiaomi,Redmi Note 10 Pro,128,6,6.67,108.0,5020,279.0
+Oppo,Find X3 Neo 5G,256,12,6.55,50.0,4500,899.0
+Huawei,P40 Pro,256,8,6.58,50.0,4200,1099.0
+OnePlus,9 Pro,256,12,6.7,48.0,4500,969.0
+Motorola,Moto G Stylus (2021),128,4,6.4,48.0,4000,299.0
+Google,Pixel 4,128,6,5.7,12.2,2800,799.0
+Samsung,Galaxy A12,128,4,6.5,48.0,5000,179.0
+Nokia,5.4,64,4,6.39,48.0,4000,179.0
+Apple,iPhone 12,128,4,6.1,12.0,2815,799.0
+Xiaomi,Redmi 10,128,4,6.5,50.0,5000,229.0
+Oppo,A94 5G,128,8,6.43,48.0,4310,399.0
+Huawei,Nova 9 Pro 5G,256,8,6.72,50.0,4500,699.0
+Samsung,Galaxy S10 Lite,128,6,6.7,48.0,4500,649.0
+OnePlus,8 Pro,256,12,6.78,48.0,4510,999.0
+Nokia,7.2,128,6,6.3,48.0,3500,349.0
+Xiaomi,Mi 10T Pro,256,8,6.67,108.0,5000,599.0
+Apple,iPhone 11,64,4,6.1,12.0,3110,699.0
+Oppo,F19 Pro+ 5G,128,8,6.43,64.0,4310,419.0
+Motorola,Moto G Power (2021),64,3,6.6,48.0,5000,199.0
+Samsung,Galaxy A71,128,6,6.7,64.0,4500,399.0
+Huawei,Mate 30 Pro 5G,256,8,6.53,40.0,4500,1099.0
+Xiaomi,Poco X3 Pro,128,6,6.67,48.0,5160,249.0
+Google,Pixel 5,128,8,6.0,12.2,4080,699.0
+Apple,iPhone SE (2020),64,3,4.7,12.0,1821,399.0
+Samsung,Galaxy M51,128,6,6.7,64.0,7000,449.0
+Oppo,Reno4 Pro 5G,256,12,6.55,48.0,4000,799.0
+Nokia,3.4,64,4,6.39,13.0,4000,179.0
+Motorola,Moto G9 Plus,128,4,6.81,64.0,5000,279.0
+Apple,iPhone XS Max,256,4,6.5,12.0,3174,1099.0
+Samsung,Galaxy A32 5G,128,4,6.5,48.0,5000,279.0
+Xiaomi,Redmi Note 9S,128,6,6.67,48.0,5020,249.0
+Oppo,A92,128,8,6.5,48.0,5000,399.0
+Huawei,P30 Pro,256,8,6.47,40.0,4200,999.0
+Samsung,Galaxy S20 FE 5G,128,6,6.5,12.0,4500,699.0
+OnePlus,7 Pro,256,8,6.67,48.0,4000,699.0
+Nokia,6.2,128,4,6.3,16.0,3500,249.0
+Xiaomi,Mi 10T Lite,128,6,6.67,64.0,4820,279.0
+Apple,iPhone 8 Plus,64,3,5.5,12.0,2691,699.0
+Oppo,A53,128,4,6.5,13.0,5000,249.0
+Motorola,Moto G8 Power,64,4,6.4,16.0,5000,229.0
+Huawei,Nova 7i,128,8,6.4,48.0,4200,329.0
+Samsung,Galaxy S21+ 5G,256,8,6.7,12.0,4800,999.0
+Xiaomi,Mi 11 Lite,128,6,6.55,64.0,4250,399.0
+Nokia,8.3 5G,128,8,6.81,64.0,4500,499.0
+OnePlus,Nord,128,8,6.44,48.0,4115,449.0
+Apple,iPhone XR,64,3,6.1,12.0,2942,499.0
+Samsung,Galaxy A12,128,4,6.5,48.0,5000,179.0
+Oppo,A94 5G,128,8,6.43,48.0,4310,399.0
+Xiaomi,Redmi 9T,128,4,6.53,48.0,6000,199.0
+Motorola,Moto G10,128,4,6.5,48.0,5000,199.0
+Samsung,Galaxy A52 5G,128,6,6.5,64.0,4500,449.0
+Huawei,P40 Pro+,512,8,6.58,50.0,4200,1399.0
+Apple,iPhone 11 Pro Max,64,4,6.5,12.0,3969,1099.0
+Samsung,Galaxy Note20 5G,256,8,6.7,12.0,4300,999.0
+Xiaomi,Poco M3,128,4,6.53,48.0,6000,179.0
+Nokia,5.4,64,4,6.39,48.0,4000,179.0
+Oppo,Find X3 Neo 5G,256,12,6.55,50.0,4500,799.0
+Samsung,Galaxy S20 Ultra 5G,512,16,6.9,108.0,5000,1399.0
+Xiaomi,Redmi Note 9S,128,6,6.67,48.0,5020,229.0
+Apple,iPhone 12 mini,256,4,5.4,12.0,2227,899.0
+Samsung,Galaxy A21s,128,6,6.5,48.0,5000,199.0
+OnePlus,9,128,8,6.55,48.0,4500,729.0
+Motorola,Moto G9 Power,128,4,6.8,64.0,6000,229.0
+Samsung,Galaxy Z Fold2 5G,256,12,7.6,12.0,4500,1999.0
+Xiaomi,Mi 10T Pro 5G,128,8,6.67,108.0,5000,599.0
+Oppo,Reno4 Pro 5G,256,12,6.5,48.0,4000,799.0
+Huawei,P40 Pro,256,8,6.58,50.0,4200,999.0
+Samsung,Galaxy S20 FE 5G,128,6,6.5,12.0,4500,699.0
+Nokia,2.4,32,2,6.5,13.0,4500,139.0
+Apple,iPhone SE (2020),128,3,4.7,12.0,1821,449.0
+Xiaomi,Redmi 9C,64,3,6.53,13.0,5000,119.0
+Samsung,Galaxy A32 5G,128,4,6.5,48.0,5000,279.0
+OnePlus,Nord N10 5G,128,6,6.49,64.0,4300,299.0
+Huawei,Y7p,64,4,6.39,48.0,4000,199.0
+Apple,iPhone 12 Pro,128,6,6.1,12.0,2815,999.0
+Samsung,Galaxy A42 5G,128,4,6.6,48.0,5000,329.0
+Xiaomi,Redmi Note 10 Pro,128,6,6.67,108.0,5020,329.0
+Samsung,Galaxy S21,128,8,6.2,64.0,4000,799.0
+Apple,iPhone 11,128,4,6.1,12.0,3110,749.0
+Xiaomi,Redmi 9T,128,4,6.53,48.0,6000,199.0
+Google,Pixel 5,128,8,6.0,12.2,4080,699.0
+Huawei,Nova 7i,128,8,6.4,48.0,4200,349.0
+Samsung,Galaxy S20 Ultra 5G,128,12,6.9,108.0,5000,1199.0
+OnePlus,8T,128,8,6.55,48.0,4500,749.0
+Motorola,Moto G8 Power,64,4,6.4,16.0,5000,199.0
+Realme,7,128,8,6.5,64.0,5000,299.0
+Apple,iPhone XR,128,3,6.1,12.0,2942,599.0
+Xiaomi,Poco M3,128,4,6.53,48.0,6000,149.0
+Samsung,Galaxy A52 5G,128,6,6.5,64.0,4500,449.0
+Oppo,A93,128,8,6.43,48.0,4000,319.0
+Motorola,Moto G Pro,128,4,6.4,48.0,4000,329.0
+Huawei,P30 Lite,128,4,6.15,48.0,3340,329.0
+Samsung,Galaxy Note20 5G,128,8,6.7,12.0,4300,1049.0
+Xiaomi,Mi 10 Lite 5G,128,6,6.57,48.0,4160,349.0
+Apple,iPhone 12 Pro Max,128,6,6.7,12.0,3687,1099.0
+Oppo,Reno3,128,8,6.4,48.0,4025,429.0
+Samsung,Galaxy S10 Lite,128,6,6.7,48.0,4500,649.0

@@ -1,0 +1,23 @@
+pandas
+numpy
+scikit-learn
+joblib
+regex
+transformers
+nltk
+spacy
+torch
+gradio
+streamlit
+flask
+fastapi
+pytest
+matplotlib
+seaborn
+scipy
+tqdm
+python-dotenv
+mlflow
+
+#pip install spacy
+#python -m spacy download vi_core_news_sm
