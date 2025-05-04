@@ -18,6 +18,7 @@ scipy
 tqdm
 python-dotenv
 mlflow
+tensorflow
 
 #pip install spacy
 #python -m spacy download vi_core_news_sm
